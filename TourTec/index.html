@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sample Tour | Tecnologico de Tuxtla Gutierrez</title>
+<meta name="description" content="A sample 360° tour created by the Marzipano Tool." />
+<meta charset="utf-8">
+<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<style> @-ms-viewport { width: device-width; } </style>
+<link rel="stylesheet" href="//www.marzipano.net/demos/common/reset.css">
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body class="multiple-scenes view-control-buttons">
+
+<div id="pano"></div>
+
+<div id="sceneList">
+  <ul class="scenes">
+    <a href="javascript:void(0)" class="scene" data-id="Entrada-tec-1">
+      <li class="text">Entrada Al Tecnologico 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Entrada-tec-2">
+      <li class="text">Entrada Al Tecnologico 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Entrada-tec-3">
+      <li class="text">Entrada Al Tecnologico 3</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-entrada">
+      <li class="text">Entrada Al Edificion D1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-zona0-1">
+      <li class="text">Edificio D1 Zona 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-zona0-2">
+      <li class="text">Edificio D1 Zona 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Esc-int">
+      <li class="text">Edificio D1 2 piso</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-zonaeste-1">
+      <li class="text">Edificio D1 Zona Este 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-zonaeste-2">
+      <li class="text">Edificio D1 Zona Este 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-zonaeste-3">
+      <li class="text">Edificio D1 Zona Este 3</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-salonredes">
+      <li class="text">Edificio D1 Salon redes </li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-zonaoeste-1">
+      <li class="text">Edificio D1 Zona Oeste 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-zonaoeste-2">
+      <li class="text">Edificio D1 Zona Oeste 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-IOs-1">
+      <li class="text">Edificio D1 Salon IO 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-IOs-2">
+      <li class="text">Edificio D1 Salon IO 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Esc-ext-1">
+      <li class="text">Edificio D1 Esc Ext 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Esc-ext-2">
+      <li class="text">Edificio D1 Esc Ext 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Esc-ext-3">
+      <li class="text">Edificio D1 Esc Ext 3</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-2piso-zona0">
+      <li class="text">Edificio D1 2 piso</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-2piso-zonaoeste-1">
+      <li class="text">Edificio D1 2 piso Z 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-2piso-zonaoeste-2">
+      <li class="text">Edificio D1 2 piso Z 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Z-1">
+      <li class="text">D1-Z 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Z-2">
+      <li class="text">D1-Z 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Z-3">
+      <li class="text">D1-Z 3</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Z-4">
+      <li class="text">D1-Z 4</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Z-5">
+      <li class="text">D1-Z 5</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="D1-Z-6">
+      <li class="text">D1-Z 6</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-Esc-ext-1">
+      <li class="text">Edificio Z Esc Ext 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-Esc-ext-2">
+      <li class="text">Edificio Z Esc Ext 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-Esc-ext-3">
+      <li class="text">Edificio Z Esc Ext 3</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-2piso-zonaoeste-1">
+      <li class="text">Edificio Z 2 piso Z 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-2piso-zonaoeste-2">
+      <li class="text">Edificio Z 2 piso Z 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-2piso-zonaoeste-3">
+      <li class="text">Edificio Z 2 piso Z 3</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-2piso-zonaoeste-4">
+      <li class="text">Edificio Z 2 piso Z 4</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-2piso-zona0">
+      <li class="text">Edificio Z 2 piso Z 0</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-Esc-int-2">
+      <li class="text">Edificio Z Esc Int 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-Esc-int-1">
+      <li class="text">Edificio Z Esc Int 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zona0-2">
+      <li class="text">Edificio Z Z 0</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zona0-1">
+      <li class="text">Edificio Z Z 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zonaeste-1">
+      <li class="text">Edificio Z Zona este 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zonaeste-2">
+      <li class="text">Edificio Z Zona este 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zonaeste-3">
+      <li class="text">Edificio Z Zona este 3</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zonaoeste-1">
+      <li class="text">Edificio Z Zona oeste 1</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zonaoeste-2">
+      <li class="text">Edificio Z Zona oeste 2</li>
+    </a>
+    <a href="javascript:void(0)" class="scene" data-id="Z-zonaoeste-3">
+      <li class="text">Edificio Z Zona oeste 3</li>
+    </a>
+  </ul>
+</div>
+
+<div id="titleBar">
+  <h1 class="sceneName"></h1>
+</div>
+
+<a href="javascript:void(0)" id="autorotateToggle">
+  <img class="icon off" src="img/play.png">
+  <img class="icon on" src="img/pause.png">
+</a>
+
+<a href="javascript:void(0)" id="fullscreenToggle">
+  <img class="icon off" src="img/fullscreen.png">
+  <img class="icon on" src="img/windowed.png">
+</a>
+
+<a href="javascript:void(0)" id="sceneListToggle">
+  <img class="icon off" src="img/expand.png">
+  <img class="icon on" src="img/collapse.png">
+</a>
+
+<a href="javascript:void(0)" id="viewUp" class="viewControlButton viewControlButton-1">
+  <img class="icon" src="img/up.png">
+</a>
+<a href="javascript:void(0)" id="viewDown" class="viewControlButton viewControlButton-2">
+  <img class="icon" src="img/down.png">
+</a>
+<a href="javascript:void(0)" id="viewLeft" class="viewControlButton viewControlButton-3">
+  <img class="icon" src="img/left.png">
+</a>
+<a href="javascript:void(0)" id="viewRight" class="viewControlButton viewControlButton-4">
+  <img class="icon" src="img/right.png">
+</a>
+<a href="javascript:void(0)" id="viewIn" class="viewControlButton viewControlButton-5">
+  <img class="icon" src="img/plus.png">
+</a>
+<a href="javascript:void(0)" id="viewOut" class="viewControlButton viewControlButton-6">
+  <img class="icon" src="img/minus.png">
+</a>
+
+<script src="//www.marzipano.net/demos/common/screenfull.js" ></script>
+<script src="//www.marzipano.net/demos/common/bowser.js" ></script>
+<script src="../../build/marzipano.js" ></script>
+
+
+<script src="data.js"></script>
+<script src="index.js"></script>
+
+</body>
+</html>

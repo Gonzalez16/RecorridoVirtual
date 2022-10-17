@@ -6,6 +6,7 @@ npm-debug.log
 package-lock.json
 /node_modules/*
 /tmp/*
+/TourTec/tiles/*
 /build/*
 /dist/*
 /docs/*
