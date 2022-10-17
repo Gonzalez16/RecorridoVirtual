@@ -1,6 +1,6 @@
 # Marzipano
 
-A 360° media viewer for the modern web.
+Recorrido Virtual 360°
 
 This is not an official Google product.
 
