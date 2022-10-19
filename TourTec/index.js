@@ -396,8 +396,6 @@
     return wrapper;
   }
 
-<<<<<<< Updated upstream:demos/sample-tour/index.js
-=======
   function createPhotoHotspotElement(hotspot){
     // Create wrapper element to hold icon and tooltip.
     var wrapper = document.createElement('div');
@@ -501,7 +499,6 @@
     return wrapper;
   }
 
->>>>>>> Stashed changes:TourTec/index.js
   // Prevent touch and scroll events from reaching the parent element.
   function stopTouchAndScrollEventPropagation(element, eventList) {
     var eventList = [
