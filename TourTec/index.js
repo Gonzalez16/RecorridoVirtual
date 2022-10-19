@@ -146,16 +146,9 @@
   if (!document.body.classList.contains('mobile')) {
     showSceneList();
   }
-
+/*
   // Set handler for scene switch.
-<<<<<<< Updated upstream:demos/sample-tour/index.js
   scenes.forEach(function(scene) {
-=======
-  //que sea posible que una escena tenga mas de una 1
-  //aqui vamos a trabajar para agrupar los edificios
-  /*scenes.forEach(function(scene) {
-    console.log(scene);
->>>>>>> Stashed changes:TourTec/index.js
     var el = document.querySelector('#sceneList .scene[data-id="' + scene.data.id + '"]');
     el.addEventListener('click', function() {
       switchScene(scene);
