@@ -30,10 +30,10 @@
   var autorotateToggleElement = document.querySelector('#autorotateToggle');
   var fullscreenToggleElement = document.querySelector('#fullscreenToggle');
 
-  console.log(data.scenes);
+  //console.log(data.scenes);
   //console.log(data.scenes[1].id
   //console.log(data.linkHotspots)
-  data.scenes.forEach(element => console.log(element.id));
+  //data.scenes.forEach(element => console.log(element.id));
   // Detect desktop or mobile mode.
   if (window.matchMedia) {
     var setMode = function() {
@@ -146,46 +146,31 @@
   if (!document.body.classList.contains('mobile')) {
     showSceneList();
   }
-/*
-  // Set handler for scene switch.
-  scenes.forEach(function(scene) {
-    var el = document.querySelector('#sceneList .scene[data-id="' + scene.data.id + '"]');
-    el.addEventListener('click', function() {
-      switchScene(scene);
-      // On mobile, hide scene list after selecting a scene.
-      if (document.body.classList.contains('mobile')) {
-        hideSceneList();
-      }
-    });
-  });*/
 
-  //scenes.forEach(scenes,indice => pertenecenA(scenes,indice));
-  data.scenes.forEach(function(scene,indice){
-        let siguienteElemento = indice +1  < data.scenes.length && data.scenes[indice].edificio == data.scenes[indice+1].edificio ? "true" : "false"
-        console.log(siguienteElemento);
-        
+  //handler scene
+  scenes.forEach(function(scene, i){      
+
+        let siguienteElemento = i +1  < scenes.length && scenes[i].data.edificio == scenes[i+1].data.edificio ? "true" : "false"
+        //El return se usa como un cotinue, aqui comprobamos que si la siguiente scena pertenece al mismo edificio de la iteracion actual
         if(siguienteElemento == "true"){
           return;
         }else{
-          if(data.scenes[indice].edificio == "0"){
+          //los edificios con 0 hacen referencia a zonas que no son un edificio como tal
+          if(scenes[i].data.edificio == "0"){
             return;
           }
-          console.log(data.scenes[indice].edificio);
-          var el = document.querySelector('#sceneList .scene[data-edificio="' + data.scenes[indice].edificio + '"]');
-          el.addEventListener('click', function() {
-            switchScene(scene);
-            // On mobile, hide scene list after selecting a scene.
-            if (document.body.classList.contains('mobile')) {
-              hideSceneList();
-            }
-          });
+        var el = document.querySelector('#sceneList .scene[data-edificio="' + scenes[i].data.edificio + '"]');
+        console.log(scenes[i].data.edificio);
+        el.addEventListener('click', function() {
+          switchScene(scene);
+          // On mobile, hide scene list after selecting a scene.
+          if (document.body.classList.contains('mobile')) {
+            hideSceneList();
+          }
+        });
         }
-        //console.log('Edificio '+ data.scenes[indice].edificio + ' de la escene '+ data.scenes[indice].id + ' En la posicion ' + (indice) + ' le sigue el indice ' + (indice+1) + ' , son el mismo edificio : ' + (siguienteElemento));
-  });
-  
-  /*data.scenes.forEach(function(scene,indice){
-    console.log(data.scenes[1].edificio);
-  });*/
+ });
+
 
   // DOM elements for view controls.
   var viewUpElement = document.querySelector('#viewUp');
@@ -222,7 +207,8 @@
   /*Como ahora esta generalizada todas las scenees en una sola, hay que buscar la forma de que cuando la des al area 
   te mande a una zona que se defina como inicial */ 
   function switchScene(scene) {
-    stopAutorotate();
+    console.log(scene);
+    console.log(scene.data.initialViewParameters);
     scene.view.setParameters(scene.data.initialViewParameters);
     scene.scene.switchTo();
     startAutorotate();
@@ -532,6 +518,6 @@
   }
 
   // Display the initial scense.
-  switchScene(scenes[0]);
+  //switchScene(scenes[0]);
 
 })();
