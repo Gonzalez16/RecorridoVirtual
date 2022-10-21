@@ -156,9 +156,7 @@
   }
 
   // Set handler for scene switch.
-  //que sea posible que una escena tenga mas de una 1
-  //aqui vamos a trabajar para agrupar los edificios
-  scenes.forEach(function(scene) {
+  /*scenes.forEach(function(scene) {
     var el = document.querySelector('#sceneList .scene[data-id="' + scene.data.id + '"]');
     el.addEventListener('click', function() {
       switchScene(scene);
@@ -167,7 +165,29 @@
         hideSceneList();
       }
     });
-  });
+  });*/
+  scenes.forEach(function(scene, i){      
+    console.log(scenes);
+    let siguienteElemento = i +1  < scenes.length && scenes[i].data.edificio == scenes[i+1].data.edificio ? "true" : "false"
+    //El return se usa como un cotinue, aqui comprobamos que si la siguiente scena pertenece al mismo edificio de la iteracion actual
+    if(siguienteElemento == "true"){
+      return;
+    }else{
+      //los edificios con 0 hacen referencia a zonas que no son un edificio como tal
+      if(scenes[i].data.edificio == "0"){
+        return;
+      }
+    var el = document.querySelector('#sceneList .scene[data-edificio="' + scenes[i].data.edificio + '"]');
+    console.log(scenes[i].data.edificio);
+    el.addEventListener('click', function() {
+      switchScene(scene);
+      // On mobile, hide scene list after selecting a scene.
+      if (document.body.classList.contains('mobile')) {
+        hideSceneList();
+      }
+    });
+    }
+});
 
   // DOM elements for view controls.
   var viewUpElement = document.querySelector('#viewUp');
@@ -210,7 +230,7 @@
   function updateSceneList(scene) {
     for (var i = 0; i < sceneElements.length; i++) {
       var el = sceneElements[i];
-      if (el.getAttribute('data-id') === scene.data.id) {
+      if (el.getAttribute('data-edificio') === scene.data.edificio) {
         el.classList.add('current');
       } else {
         el.classList.remove('current');
@@ -436,7 +456,7 @@
     //video.src = "entrevistas/" + hotspot.id + ".mp4";
     video.width = "380";
     video.height = "200";
-    console.log(data.scenes);
+    //console.log(data.scenes);
     video.controls = "true";
     video.classList.add('info-hotspot-video');
     videoWrapper.appendChild(video);
@@ -506,6 +526,6 @@
   }
 
   // Display the initial scene.
-  switchScene(scenes[0]);
+  switchScene(scenes[2]);
 
 })();
