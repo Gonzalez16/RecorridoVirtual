@@ -94,34 +94,6 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "D1-entrada", //oriente-station 
-      "name": "Entrada Al Edificio D1",
-      "edificio": "Edificio D1",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": 10.0000111111,
-          "pitch": -6.00073240232339251865,
-          "rotation": 0,
-          "target": "D1-zona0-1"
-        },
-        {
-          "yaw": -25.0000111111,
-          "pitch": -6.00073240232339251865,
-          "rotation": 0,
-          "target": "D1-Z-1"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
       "id": "D1-zona0-1", //oriente-station
       "name": "Edificio D1- Zona 1",
       "edificio": "Edificio D1",
@@ -590,6 +562,34 @@ var data = {
           "pitch": -5.8,
           "rotation": 0,
           "target": "D1-Esc-ext-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "D1-entrada", //oriente-station 
+      "name": "Entrada Al Edificio D1",
+      "edificio": "Edificio D1",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 10.0000111111,
+          "pitch": -6.00073240232339251865,
+          "rotation": 0,
+          "target": "D1-zona0-1"
+        },
+        {
+          "yaw": -25.0000111111,
+          "pitch": -6.00073240232339251865,
+          "rotation": 0,
+          "target": "D1-Z-1"
         }
       ],
       "infoHotspots": [{}],
