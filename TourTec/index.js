@@ -527,5 +527,16 @@
 
   // Display the initial scene.
   switchScene(scenes[2]);
-
+  document.getElementById("boton").addEventListener("click", function(){
+    const name = document.getElementById("formulario").value.toLowerCase();
+    const vista = scenes.find( scene => scene.data.id.toLowerCase() === name );
+    if(vista == undefined) {
+      alert('No encontrado');
+    }else{
+      /*alert('Encontrado');
+      console.log(vista);*/
+      //findSceneDataById(switchScene(name));
+      switchScene(vista);
+    }
+  });
 })();
