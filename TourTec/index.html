@@ -8,6 +8,7 @@
 <style> @-ms-viewport { width: device-width; } </style>
 <link rel="stylesheet" href="//www.marzipano.net/demos/common/reset.css">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="img/styles.css">
 
 </head>
 <body class="multiple-scenes view-control-buttons">
@@ -47,9 +48,13 @@
   <img class="icon on" src="img/collapse.png">
 </a>
 
-<a href="javascript:void(0)" id="autorotateToggle">
-  <input type="text" id="formulario">
-  <button id="boton">Buscar</button>
+<a href="javascript:void(0)" id="search">
+  <div class="buscar">
+  <input type="text" class="buscar-texto" placeholder="Buscar" id="formulario">
+  <a id="boton" class="buton">
+    <i class="icon-search"></i>
+  </a>
+  </div>
   </a>
   
 

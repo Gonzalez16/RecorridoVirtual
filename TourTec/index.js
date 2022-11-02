@@ -30,6 +30,7 @@
   var sceneListToggleElement = document.querySelector('#sceneListToggle');
   var autorotateToggleElement = document.querySelector('#autorotateToggle');
   var fullscreenToggleElement = document.querySelector('#fullscreenToggle');
+  var search = document.querySelector('#search');
 
   // Detect desktop or mobile mode.
   if (window.matchMedia) {
@@ -333,6 +334,15 @@
     var icon = document.createElement('img');
     icon.src = 'img/info.png';
     icon.classList.add('info-hotspot-icon');
+    iconWrapper.appendChild(icon);
+
+    
+    // Create image search
+    var iconWrapper = document.createElement('div');
+    iconWrapper.classList.add('search');
+    var icon = document.createElement('img');
+    icon.src = 'img/search.png';
+    icon.classList.add('search');
     iconWrapper.appendChild(icon);
 
     // Create title element.
