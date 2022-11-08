@@ -17,7 +17,7 @@ var data = {
   "scenes": [
     {
       "id": "Entrada-tec-2", //oriente-station
-      "name": "Entrada Tec",
+      "name": "Lobby",
       "edificio": "Entrada",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -95,7 +95,7 @@ var data = {
     },
     {
       "id": "D1-zona0-1", //oriente-station
-      "name": "Edificio D1- Zona 1",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -123,7 +123,7 @@ var data = {
     },
     {
       "id": "D1-zona0-2", 
-      "name": "Edificio D1- Zona 2",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -157,7 +157,7 @@ var data = {
     },
     {
       "id": "D1-zonaeste-1", //oriente-station
-      "name": "D1-Zonaeste-1",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -185,7 +185,7 @@ var data = {
     },
     {
       "id": "D1-zonaeste-2", //oriente-station
-      "name": "D1-zonaeste-2",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -213,7 +213,7 @@ var data = {
     },
     {
       "id": "D1-zonaeste-3", //oriente-station
-      "name": "D1-zonaeste-3",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -246,7 +246,7 @@ var data = {
       "videoHotspots":[{}]
     },{
       "id": "D1-salonredes", //oriente-station
-      "name": "D1- Salon Redes",
+      "name": "Salon Redes",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -268,7 +268,7 @@ var data = {
     },
     {
       "id": "D1-zonaoeste-1", //oriente-station
-      "name": "D1-zonaoeste-1",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -302,7 +302,7 @@ var data = {
     },
     {
       "id": "D1-zonaoeste-2", //oriente-station
-      "name": "D1-zonaoeste-2",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -324,7 +324,7 @@ var data = {
     },
     {
       "id": "D1-IOs-1", //oriente-station
-      "name": "D1-Salon IOs 1",
+      "name": "Salon IOS",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -352,7 +352,7 @@ var data = {
     },
     {
       "id": "D1-IOs-2", //oriente-station
-      "name": "D1- Salon IOs 2",
+      "name": "Salon IOS",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -374,7 +374,7 @@ var data = {
     },
     {
       "id": "D1-Esc-ext-1", //oriente-station
-      "name": "D1-Escaleras Exteriror 1",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -402,7 +402,7 @@ var data = {
     },
     {
       "id": "D1-Esc-ext-2", //oriente-station
-      "name": "D1-Escaleras Exterior 2",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -430,7 +430,7 @@ var data = {
     },
     {
       "id": "D1-Esc-ext-3", //oriente-station
-      "name": "D1-Escaleras Exterior 3",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -458,7 +458,7 @@ var data = {
     },
     {
       "id": "D1-Esc-int", //oriente-station
-      "name": "D1-Escaleras interior",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -486,7 +486,7 @@ var data = {
     },
     {
       "id": "D1-2piso-zona0", //oriente-station
-      "name": "D1- 2piso",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -514,7 +514,7 @@ var data = {
     },
     {
       "id": "D1-2piso-zonaoeste-1", //oriente-station
-      "name": "D1-2 piso",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -542,7 +542,7 @@ var data = {
     },
     {
       "id": "D1-2piso-zonaoeste-2", //oriente-station
-      "name": "D1- 2 piso",
+      "name": "Edificio D1",
       "edificio": "Edificio D1",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -598,7 +598,7 @@ var data = {
     },
     {
       "id": "D1-Z-1", //oriente-station
-      "name": "D1-Z-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -626,7 +626,7 @@ var data = {
     },
     {
       "id": "D1-Z-2", //oriente-station
-      "name": "D1-Z-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -654,7 +654,7 @@ var data = {
     },
     {
       "id": "D1-Z-3", //oriente-station
-      "name": "D1-Z-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -682,7 +682,7 @@ var data = {
     },
     {
       "id": "D1-Z-4", //oriente-station
-      "name": "D1-Z-4",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -710,7 +710,7 @@ var data = {
     },
     {
       "id": "D1-Z-5", //oriente-station
-      "name": "D1-Z-5",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -738,7 +738,7 @@ var data = {
     },
     {
       "id": "D1-Z-6", //oriente-station
-      "name": "D1-Z-6",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -772,7 +772,7 @@ var data = {
     },
     {
       "id": "Z-Esc-ext-1", //oriente-station  
-      "name": "Z-esc-ext-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -806,7 +806,7 @@ var data = {
     },
     {
       "id": "Z-Esc-ext-2", //oriente-station
-      "name": "Z-esc-ext-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -834,7 +834,7 @@ var data = {
     },
     {
       "id": "Z-Esc-ext-3", //oriente-station
-      "name": "Z-esc-ext-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -862,7 +862,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-4", //oriente-station
-      "name": "Z-2piso-zonaoeste-4",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -890,7 +890,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-3", //oriente-station
-      "name": "Z-2piso-zonaoeste-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -918,7 +918,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-2", //oriente-station
-      "name": "Z-2piso-zonaoeste-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -946,7 +946,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-1", //oriente-station
-      "name": "Z-2piso-zonaoeste-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -974,7 +974,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zona0", //oriente-station 
-      "name": "Z-2piso-zona0",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1002,7 +1002,7 @@ var data = {
     },
     {
       "id": "Z-Esc-int-2", //oriente-station
-      "name": "Z-Esc-int-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1030,7 +1030,7 @@ var data = {
     },
     {
       "id": "Z-Esc-int-1", //oriente-station
-      "name": "Z-Esc-int-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1058,7 +1058,7 @@ var data = {
     },
     {
       "id": "Z-zona0-2", //oriente-station   
-      "name": "Z-zona0-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1098,7 +1098,7 @@ var data = {
     },
     {
       "id": "Z-zona0-1", //oriente-station
-      "name": "Z-zona0-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1120,7 +1120,7 @@ var data = {
     },
     {
       "id": "Z-zonaeste-1", //oriente-station  
-      "name": "Z-zonaeste-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1148,7 +1148,7 @@ var data = {
     },
     {
       "id": "Z-zonaeste-2", //oriente-station
-      "name": "Z-zonaeste-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1176,7 +1176,7 @@ var data = {
     },
     {
       "id": "Z-zonaeste-3", //oriente-station
-      "name": "Z-zonaeste-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1204,7 +1204,7 @@ var data = {
     },
     {
       "id": "Z-zonaoeste-1", //oriente-station 
-      "name": "Z-zonaoeste-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1232,7 +1232,7 @@ var data = {
     },
     {
       "id": "Z-zonaoeste-2", //oriente-station
-      "name": "Z-zonaoeste-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1260,7 +1260,7 @@ var data = {
     },
     {
       "id": "Z-zonaoeste-3", //oriente-station
-      "name": "Z-zonaoeste-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
