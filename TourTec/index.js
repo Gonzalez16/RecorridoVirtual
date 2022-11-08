@@ -78,7 +78,7 @@
     var source = Marzipano.ImageUrlSource.fromString("tiles/"+ data.id + ".jpg");
     var geometry = new Marzipano.EquirectGeometry([{ width: 4000 }]);
 
-    var limiter = Marzipano.RectilinearView.limit.traditional(1024, 150*Math.PI/180);
+    var limiter = Marzipano.RectilinearView.limit.traditional(854, 150*Math.PI/180);
     var view = new Marzipano.RectilinearView({ yaw: Math.PI }, limiter);
 
     var scene = viewer.createScene({
@@ -535,8 +535,6 @@
     return null;
   }
 
-  // Display the initial scene.
-  switchScene(scenes[2]);
   document.getElementById("boton").addEventListener("click", function(){
     const name = document.getElementById("formulario").value.toLowerCase();
     const vista = scenes.find( scene => scene.data.name.toLowerCase() === name );
@@ -549,4 +547,7 @@
       switchScene(vista);
     }
   });
+
+  // Display the initial scene.
+  switchScene(scenes[0]);
 })();
