@@ -52,7 +52,7 @@ var data = {
           "yaw": -0.098090898,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1"
+          "target": "camino-principal"
         },
         {
           "yaw": -1002917267,
@@ -198,7 +198,7 @@ var data = {
           "yaw": -9.4087859,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1.3.2.2"
+          "target": "B-entrada-norte-1"
         },
         {
           "yaw": -5.2787869,
@@ -232,69 +232,13 @@ var data = {
           "yaw": -6.3087869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1.1"
+          "target": "Entrada-BQ@-1"
         },
         {
           "yaw": -9.4087859,
           "pitch": -100.333333333,
           "rotation": 0,
           "target": "B-zona0"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "D1-Z-1", //oriente-station
-      "name": "D1-Z-1",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw":-89.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-entrada"
-        },
-        {
-          "yaw":-42.1,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-Z-2"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "D1-Z-2", //oriente-station
-      "name": "D1-Z-2",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw":-89.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-Z-3"
-        },
-        {
-          "yaw":-42.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-Z-1"
         }
       ],
       "infoHotspots": [{}],
@@ -1316,7 +1260,7 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "camino-1", //oriente-station
+      "id": "camino-principal", //oriente-station
       "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
@@ -1343,7 +1287,7 @@ var data = {
           "yaw": -9.6087859,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1.0"
+          "target": "Entrada-B-1"
         }
       ],
       "infoHotspots": [{}],
@@ -1351,7 +1295,7 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "camino-1.0", //oriente-station
+      "id": "Entrada-B-1", //oriente-station
       "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
@@ -1365,13 +1309,13 @@ var data = {
           "yaw": -6.1897869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1"
+          "target": "camino-principal"
         },
         {
           "yaw": -3.1897869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1.1"
+          "target": "Entrada-BQ@-1"
         }
         
       ],
@@ -1380,266 +1324,7 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "camino-1.1", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -6.19897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.0"
-        },
-        {
-          "yaw": -4.59897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "B-entrada"
-        }
-        ,
-        {
-          "yaw": -9.19897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.2"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.2", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -6.19897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.1"
-        },
-        {
-          "yaw": -4.65897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.3"
-        },
-        {
-          "yaw": -9.95897869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "camino-1.4"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.3", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -4.90897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.2"
-        },
-        {
-          "yaw": -8.10897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.3.1"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.4", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -8.25897869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "camino-1.2"
-        },
-        {
-          "yaw": -4.65897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.4.1" //1.4.1
-        },
-        {
-          "yaw": -9.45897869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "camino-1.4.2" //1.4.2
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.4.1", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -7.85897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.4"
-        },
-        {
-          "yaw": -4.65897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.4.1.1" //1.4.1
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.4.1.1", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -7.85897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.4.1"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.4.2", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -6.35897869,
-          "pitch": -100.333333333,
-          "rotation": 5,
-          "target": "camino-1.4"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.3.1", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -4.90897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.3"
-        },
-        {
-          "yaw": -3.20897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.3.1.1" //1.3.1.1
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.3.1.1", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -7.75897869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "camino-1.3.1"
-        },
-        {
-          "yaw": -6.1597869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "camino-1.3.2.1" //1.3.1.1
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "camino-1.3.2.1", //oriente-station
+      "id": "B-entrada-norte-2", //oriente-station
       "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
@@ -1653,13 +1338,13 @@ var data = {
           "yaw": -7.85897869,
           "pitch": -100.333333333,
           "rotation": 5,
-          "target": "camino-1.3.1.1"
+          "target": "B-Q-A-H-4"
         },
         {
           "yaw":  -6.2807869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1.3.2.2" 
+          "target": "B-entrada-norte-1" 
         }
       ],
       "infoHotspots": [{}],
@@ -1667,7 +1352,7 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "camino-1.3.2.2", //oriente-station
+      "id": "B-entrada-norte-1", //oriente-station
       "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
@@ -1681,13 +1366,740 @@ var data = {
           "yaw": -4.6357869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "camino-1.3.2.1"
+          "target": "B-entrada-norte-2"
         },
         {
           "yaw": -8.80897869,
           "pitch": -100.333333333,
           "rotation": 1,
           "target": "B-zonanorte" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "Entrada-BQ@-1", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -6.19897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "Entrada-B-1"
+        },
+        {
+          "yaw": -4.59897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-entrada"
+        }
+        ,
+        {
+          "yaw": -9.19897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q@-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q@-1", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -6.19897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "Entrada-BQ@-1"
+        },
+        {
+          "yaw": -4.65897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q@-2"
+        },
+        {
+          "yaw": -9.95897869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "B-Q-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q@-2", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -4.90897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q@-1"
+        },
+        {
+          "yaw": -8.10897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q-1", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -8.25897869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "B-Q@-1"
+        },
+        {
+          "yaw": -4.65897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-2" //1.4.1
+        },
+        {
+          "yaw": -9.45897869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "B-Q-3" //1.4.2
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q-2", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.85897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-1"
+        },
+        {
+          "yaw": -4.65897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "Q-entrada" //1.4.1
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "Q-entrada", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.85897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-2"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q-3", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -6.35897869,
+          "pitch": -100.333333333,
+          "rotation": 5,
+          "target": "B-Q-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q-A-H-3", //oriente-station
+      "name": "3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -4.90897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q@-2"
+        },
+        {
+          "yaw": -3.20897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-4" 
+        },
+        {
+          "yaw": -7.80897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-3.1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q-A-H-4", //oriente-station
+      "name": "Pasillo",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.75897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-3"
+        },
+        {
+          "yaw": -6.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "B-entrada-norte-2" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q-A-H-3.1", //oriente-station
+      "name": "3.1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -4.00897869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "B-Q-A-H-3"
+        },
+        {
+          "yaw": -4.7597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-3.2" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "B-Q-A-H-3.2", //oriente-station
+      "name": "3.2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.85897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-3.1"
+        },
+        {
+          "yaw": -6.3597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-F-G-2" 
+        },
+        {
+          "yaw": -4.7597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-entrada-norte-1" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-entrada-norte-1", //oriente-station
+      "name": "hentrada",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.85897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-3.1"
+        },
+        {
+          "yaw": -6.2097869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-1" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-J-T-1", //oriente-station
+      "name": "h-j-t-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.15897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-F-G-1"
+        },
+        {
+          "yaw": -4.7097869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-entrada-norte-1" 
+        },
+        {
+          "yaw": -6.8597869,
+          "pitch": -100.333333333,
+          "rotation": 5,
+          "target": "J-entrada" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "J-entrada", //oriente-station
+      "name": "j-entrada",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.20897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-1"
+        },
+        {
+          "yaw": -6.3097869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-entrada-norte-1" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-J-T-F-G-1", //oriente-station
+      "name": "h-j-t-f-g-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.75897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-1"
+        },
+        {
+          "yaw": -3.0097869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-2"
+        },
+        {
+          "yaw": -4.6097869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-F-G-2"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-J-T-2", //oriente-station
+      "name": "h-j-t-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -6.30897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-F-G-1"
+        },
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "J-entrada-oeste"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "J-entrada-oeste", //oriente-station
+      "name": "j-entrada-oeste",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -6.2509786,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-2"
+        },
+        {
+          "yaw": -4.1597869,
+          "pitch": -100.333333333,
+          "rotation": 5,
+          "target": "H-J-T-2"
+        },
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-entrada-norte-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-F-G-2", //oriente-station
+      "name": "h-f-g-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.75897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-F-G-3" 
+        },
+        {
+          "yaw": -3.1597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "B-Q-A-H-3.2" 
+        },
+        {
+          "yaw": -4.7597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-F-G-1" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-F-G-3", //oriente-station
+      "name": "h-f-g-3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.75897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-F-G-2" 
+        },
+        {
+          "yaw": -4.7597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-F-G-4" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-F-G-4", //oriente-station
+      "name": "h-f-g-4",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -7.75897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-F-G-3" //EL QUE SIGUE
+        },
+        {
+          "yaw": -4.7597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-F-G-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "J-entrada-norte-1", //oriente-station
+      "name": "j-entrada-norte-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.15897869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-entrada"
+        },
+        {
+          "yaw": -7.9097869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-entrada-oeste" 
+        },
+        {
+          "yaw": -6.1097869,
+          "pitch": -100.333333333,
+          "rotation": 5,
+          "target": "T-entrada-2" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "T-entrada-2", //oriente-station
+      "name": "T-entrada-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -4.0897869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "J-entrada-norte-1"
+        },
+        {
+          "yaw": -7.9257869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-entrada-norte-1" 
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "D1-Z-1", //oriente-station
+      "name": "D1-Z-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
+          "rotation": 0,
+          "target": "D1-entrada"
+        },
+        {
+          "yaw":-42.1,
+          "pitch": -6.0076340532339251865,
+          "rotation": 0,
+          "target": "D1-Z-2"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "D1-Z-2", //oriente-station
+      "name": "D1-Z-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
+          "rotation": 0,
+          "target": "D1-Z-3"
+        },
+        {
+          "yaw":-42.56678386676067,
+          "pitch": -6.0076340532339251865,
+          "rotation": 0,
+          "target": "D1-Z-1"
         }
       ],
       "infoHotspots": [{}],
