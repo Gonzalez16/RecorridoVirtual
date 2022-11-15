@@ -1851,13 +1851,1067 @@ var data = {
           "yaw": -3.0597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-J-T-2"
+          "target": "H-J-T-3"
         },
         {
           "yaw": -2.5597869,
           "pitch": -100.333333333,
           "rotation": 1,
           "target": "J-entrada-oeste"
+        },
+        {
+          "yaw": -6.30897869,
+          "pitch": -1.333333333,
+          "rotation": 0,
+          "target": "K-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "H-J-T-3", //oriente-station
+      "name": "h-j-t-3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "J-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "J-1", //oriente-station
+      "name": "j-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "H-J-T-3"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "J-2"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "J-2", //oriente-station
+      "name": "j-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-K-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "J-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "J-K-1", //oriente-station
+      "name": "j-k-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-K-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "J-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "J-K-2", //oriente-station
+      "name": "j-k-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-K-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-1", //oriente-station
+      "name": "k-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-K-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-2"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-2", //oriente-station
+      "name": "k-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-3", //oriente-station
+      "name": "k-3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-4"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-4", //oriente-station
+      "name": "k-4",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-3"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-5"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-5", //oriente-station
+      "name": "k-5",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-4"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-6"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-6", //oriente-station
+      "name": "k-6",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-5"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-7"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-7", //oriente-station
+      "name": "k-7",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-6"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-8"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-8", //oriente-station
+      "name": "k-8",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-7"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "K-9"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "K-9", //oriente-station
+      "name": "k-9",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-8"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-8"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-1", //oriente-station
+      "name": "i-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "EAD-6"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-2", //oriente-station
+      "name": "i-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-3", //oriente-station
+      "name": "i-3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-4"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-4", //oriente-station
+      "name": "i-4",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-3"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-5"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-5", //oriente-station
+      "name": "i-5",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-4"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-6"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-6", //oriente-station
+      "name": "i-6",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-5"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-7"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-7", //oriente-station
+      "name": "i-7",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-6"
+        },
+        {
+          "yaw": -3.0597869,
+          "pitch": -1.333333333,
+          "rotation": 0,
+          "target": "I-V-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-8"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-8", //oriente-station
+      "name": "i-8",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-7"
+        },
+        {
+          "yaw": -18.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-9"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-9"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-9", //oriente-station
+      "name": "i-9",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-8"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-5"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "EAD-1", //oriente-station
+      "name": "ead-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "EAD-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-5"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "EAD-2", //oriente-station
+      "name": "ead-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "EAD-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "EAD-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "EAD-3", //oriente-station
+      "name": "ead-3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "EAD-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "EAD-4"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "EAD-4", //oriente-station
+      "name": "ead-4",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "EAD-3"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "EAD-5"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "EAD-5", //oriente-station
+      "name": "ead-5",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "EAD-4"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "EAD-6"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "EAD-6", //oriente-station
+      "name": "ead-6",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "EAD-5"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "EAD-6", //oriente-station
+      "name": "ead-6",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "EAD-5"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-V-1", //oriente-station
+      "name": "i-v-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-V-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-7"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-V-2", //oriente-station
+      "name": "i-v-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-V-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-V-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-V-3", //oriente-station
+      "name": "i-v-3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-V-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-V-EN-1"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-V-EN-1", //oriente-station
+      "name": "i-v-en-1",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-V-3"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-V-EN-2"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-V-EN-2", //oriente-station
+      "name": "i-v-en-2",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-V-EN-1"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-V-EN-3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-V-EN-3", //oriente-station
+      "name": "i-v-en-3",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-V-EN-2"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-V-EN-4"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "I-V-EN-4", //oriente-station
+      "name": "i-v-en-4",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0597869,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "I-V-EN-3"
+        },
+        {
+          "yaw": -2.5597869,
+          "pitch": -100.333333333,
+          "rotation": 1,
+          "target": "I-V-EN-1"
         }
       ],
       "infoHotspots": [{}],
