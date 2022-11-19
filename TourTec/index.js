@@ -168,7 +168,6 @@
     });
   });*/
   scenes.forEach(function(scene, i){      
-    console.log(scenes);
     let siguienteElemento = i +1  < scenes.length && scenes[i].data.edificio == scenes[i+1].data.edificio ? "true" : "false"
     //El return se usa como un cotinue, aqui comprobamos que si la siguiente scena pertenece al mismo edificio de la iteracion actual
     if(siguienteElemento == "true"){
