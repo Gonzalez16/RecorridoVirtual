@@ -2919,6 +2919,12 @@ var data = {
           "target": "I-V-EN-1"
         },
         {
+          "yaw": -30.0597869,
+          "pitch": -10.333333333,
+          "rotation": 0,
+          "target": "PASICAFE"
+        },
+        {
           "yaw": -2.5597869,
           "pitch": -100.333333333,
           "rotation": 1,
@@ -3408,34 +3414,6 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "BIBLIO", //oriente-station
-      "name": "Biblioteca",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw":-42.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "BIBLIO1"
-        },
-        {
-          "yaw":-89.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "BIBLIOPASI"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
       "id": "BIBLIO1", //oriente-station
       "name": "Biblioteca",
       "edificio": "0",
@@ -3456,7 +3434,7 @@ var data = {
           "yaw":-89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "BIBLIO"
+          "target": "BIBLIOPASI"
         }
       ],
       "infoHotspots": [{}],
@@ -3479,6 +3457,12 @@ var data = {
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO3"
+        },
+        {
+          "yaw":-4.4,
+          "pitch": -8.0076340532339251865,
+          "rotation": 0,
+          "target": "BIBLIO2-9"
         },
         {
           "yaw":-89.4,
@@ -3562,7 +3546,7 @@ var data = {
           "yaw":-42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "BIBLIO6"
+          "target": "BIBLIO7"
         },
         {
           "yaw":-89.4,
@@ -3576,7 +3560,7 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "BIBLIO6", //oriente-station
+      "id": "BIBLIO7-6", //oriente-station
       "name": "Biblioteca",
       "edificio": "0",
       "faceSize": 4096,
@@ -3591,12 +3575,6 @@ var data = {
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO7"
-        },
-        {
-          "yaw":-89.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "BIBLIO5"
         }
       ],
       "infoHotspots": [{}],
@@ -3621,10 +3599,16 @@ var data = {
           "target": "BIBLIO8"
         },
         {
+          "yaw":-4.4,
+          "pitch": -60.0076340532339251865,
+          "rotation": 0,
+          "target": "BIBLIO7-6"
+        },
+        {
           "yaw":-89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "BIBLIO6"
+          "target": "BIBLIO5"
         }
       ],
       "infoHotspots": [{}],
@@ -3646,7 +3630,7 @@ var data = {
           "yaw":-42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "BIBLIO9"
+          "target": "BIBLIO1"
         },
         {
           "yaw":-89.4,
@@ -3660,7 +3644,7 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "BIBLIO9", //oriente-station
+      "id": "BIBLIO2-9", //oriente-station
       "name": "Biblioteca",
       "edificio": "0",
       "faceSize": 4096,
@@ -3671,16 +3655,10 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "BIBLIO8"
-        },
-        {
           "yaw":-89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "BIBLIO1"
+          "target": "BIBLIO2"
         }
       ],
       "infoHotspots": [{}],
@@ -3703,6 +3681,12 @@ var data = {
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "PASICAFE1"
+        },
+        {
+          "yaw":-4.4,
+          "pitch": -60.0076340532339251865,
+          "rotation": 0,
+          "target": "I-V-EN-2"
         },
         {
           "yaw":-89.4,
@@ -3736,35 +3720,7 @@ var data = {
           "yaw":-89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "CAFE"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "CAFE", //oriente-station
-      "name": "Cafeteria",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw":-42.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
           "target": "CAFE1"
-        },
-        {
-          "yaw":-89.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "PASICAFE1"
         }
       ],
       "infoHotspots": [{}],
@@ -3786,7 +3742,7 @@ var data = {
           "yaw":-42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "CAFE"
+          "target": "PASICAFE1"
         },
         {
           "yaw":-89.4,
@@ -3864,7 +3820,7 @@ var data = {
           "yaw":-2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "CANCHATECHA"
+          "target": "CANCHATECHA1"
         },
         {
           "yaw":-42.4,
@@ -3918,34 +3874,6 @@ var data = {
       "videoHotspots":[{}]
     },
     {
-      "id": "CANCHATECHA", //oriente-station
-      "name": "Cancha",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw":-2.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "CAMINOCANCHAS"
-        },
-        {
-          "yaw":-9.4,
-          "pitch": -1.5,
-          "rotation": 0,
-          "target": "CANCHATECHA1"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
       "id": "CANCHATECHA1", //oriente-station
       "name": "Cancha",
       "edificio": "0",
@@ -3966,7 +3894,7 @@ var data = {
           "yaw":-9.4,
           "pitch": -1.5,
           "rotation": 0,
-          "target": "CANCHATECHA"
+          "target": "CAMINOCANCHAS"
         }
       ],
       "infoHotspots": [{}],
@@ -3994,7 +3922,29 @@ var data = {
           "yaw":-9.4,
           "pitch": -1.5,
           "rotation": 0,
-          "target": "CANCHATECHA"
+          "target": "CANCHATECHA3"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "CANCHATECHA3", //oriente-station
+      "name": "Cancha",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw":-2.4,
+          "pitch": -6.0076340532339251865,
+          "rotation": 0,
+          "target": "CANCHATECHA2"
         }
       ],
       "infoHotspots": [{}],
@@ -4156,7 +4106,7 @@ var data = {
           "yaw":-2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "CANCHAPASILLO6"
+          "target": "CANCHAPASILLO6-6"
         }
       ],
       "infoHotspots": [{}],
@@ -4184,13 +4134,47 @@ var data = {
           "yaw":-4.4,
           "pitch": -3.0076340532339251865,
           "rotation": 0,
-          "target": "FUT7"
+          "target": "CANCHAPASILLO6-6"
         },
         {
           "yaw":-9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "CANCHAPASILLO7"
+        }
+      ],
+      "infoHotspots": [{}],
+      "photoHotspots":[{}],
+      "videoHotspots":[{}]
+    },
+    {
+      "id": "CANCHAPASILLO6-6", //oriente-station
+      "name": "Cancha",
+      "edificio": "0",
+      "faceSize": 4096,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw":-2.4,
+          "pitch": -6.0076340532339251865,
+          "rotation": 0,
+          "target": "FUT7"
+        },
+        {
+          "yaw":-4.4,
+          "pitch": -3.0076340532339251865,
+          "rotation": 0,
+          "target": "CANCHAPASILLO6"
+        },
+        {
+          "yaw":-9.4,
+          "pitch": -1.5,
+          "rotation": 0,
+          "target": "CAMPO"
         }
       ],
       "infoHotspots": [{}],
@@ -4269,40 +4253,6 @@ var data = {
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO8"
-        },
-        {
-          "yaw":-9.4,
-          "pitch": -1.5,
-          "rotation": 0,
-          "target": "CANCHAPASILLO10"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "CANCHAPASILLO10", //oriente-station
-      "name": "Cancha",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw":-2.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "CANCHAPASILLO9"
-        },
-        {
-          "yaw":-9.4,
-          "pitch": -1.5,
-          "rotation": 0,
-          "target": "CAMPO"
         }
       ],
       "infoHotspots": [{}],
@@ -4330,7 +4280,7 @@ var data = {
           "yaw":-9.4,
           "pitch": -1.5,
           "rotation": 0,
-          "target": "CANCHAPASILLO10"
+          "target": "CANCHAPASILLO6-6"
         }
       ],
       "infoHotspots": [{}],
