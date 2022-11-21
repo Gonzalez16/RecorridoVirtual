@@ -23,7 +23,6 @@
 
   // Grab elements from DOM.
   var panoElement = document.querySelector('#pano');
-  var info = document.querySelector('#info');
   var sceneNameElement = document.querySelector('#titleBar .sceneName');
   var sceneListElement = document.querySelector('#sceneList');
   var sceneElements = document.querySelectorAll('#sceneList .scene');
@@ -99,7 +98,7 @@
       var element = createInfoHotspotElement(hotspot);
       scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
     });
-    // create photo hotspots.
+    /* // create photo hotspots.
     data.photoHotspots.forEach(function(hotspot){
       var element = createPhotoHotspotElement(hotspot);
       scene.hotspotContainer().createHotspot(element, {yaw: hotspot.yaw, pitch: hotspot.pitch});
@@ -109,7 +108,7 @@
     data.videoHotspots.forEach(function(hotspot){
     var element = createVideoHotspotElement(hotspot);
     scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
-    });
+    }); */
 
     return {
       data: data,
@@ -398,7 +397,7 @@
     return wrapper;
   }
 
-  function createPhotoHotspotElement(hotspot){
+  /* function createPhotoHotspotElement(hotspot){
     // Create wrapper element to hold icon and tooltip.
     var wrapper = document.createElement('div');
     wrapper.classList.add('hotspot');
@@ -423,9 +422,9 @@
      wrapper.appendChild(header);
 
     return wrapper;
-  }
+  } */
 
-  function createVideoHotspotElement(hotspot){
+  /* function createVideoHotspotElement(hotspot){
     // Create wrapper element to hold icon and tooltip.
     var wrapper = document.createElement('div');
     wrapper.classList.add('hotspot');
@@ -500,7 +499,7 @@
     stopTouchAndScrollEventPropagation(wrapper);
 
     return wrapper;
-  }
+  } */
 
   // Prevent touch and scroll events from reaching the parent element.
   function stopTouchAndScrollEventPropagation(element, eventList) {
