@@ -645,7 +645,7 @@ var data = {
     },
     {
       "id": "Z-Esc-ext-1", //oriente-station  
-      "name": "Z-esc-ext-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -679,7 +679,7 @@ var data = {
     },
     {
       "id": "Z-Esc-ext-3", //oriente-station
-      "name": "Z-esc-ext-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -707,7 +707,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-4", //oriente-station
-      "name": "Z-2piso-zonaoeste-4",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -735,7 +735,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-3", //oriente-station
-      "name": "Z-2piso-zonaoeste-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -763,7 +763,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-2", //oriente-station
-      "name": "Z-2piso-zonaoeste-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -791,7 +791,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zonaoeste-1", //oriente-station
-      "name": "Z-2piso-zonaoeste-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -819,7 +819,7 @@ var data = {
     },
     {
       "id": "Z-2piso-zona0", //oriente-station 
-      "name": "Z-2piso-zona0",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -847,7 +847,7 @@ var data = {
     },
     {
       "id": "Z-zonaeste-1", //oriente-station  
-      "name": "Z-zonaeste-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -875,7 +875,7 @@ var data = {
     },
     {
       "id": "Z-zonaeste-2", //oriente-station
-      "name": "Z-zonaeste-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -903,7 +903,7 @@ var data = {
     },
     {
       "id": "Z-zonaeste-3", //oriente-station
-      "name": "Z-zonaeste-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -931,7 +931,7 @@ var data = {
     },
     {
       "id": "Z-zonaoeste-1", //oriente-station 
-      "name": "Z-zonaoeste-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -959,7 +959,7 @@ var data = {
     },
     {
       "id": "Z-zonaoeste-2", //oriente-station
-      "name": "Z-zonaoeste-2",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -987,7 +987,7 @@ var data = {
     },
     {
       "id": "Z-zonaoeste-3", //oriente-station
-      "name": "Z-zonaoeste-3",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1009,7 +1009,7 @@ var data = {
     },
     {
       "id": "Z-zona0-1", //oriente-station
-      "name": "Z-zona0-1",
+      "name": "Edificio Z",
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1338,7 +1338,7 @@ var data = {
     },
     {
       "id": "B-Q-A-H-3", //oriente-station
-      "name": "3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1406,7 +1406,7 @@ var data = {
     },
     {
       "id": "B-Q-A-H-3.1", //oriente-station
-      "name": "3.1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1434,7 +1434,7 @@ var data = {
     },
     {
       "id": "B-Q-A-H-3.2", //oriente-station
-      "name": "3.2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1468,7 +1468,7 @@ var data = {
     },
     {
       "id": "H-entrada-norte-1", //oriente-station
-      "name": "hentrada",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1496,7 +1496,7 @@ var data = {
     },
     {
       "id": "H-J-T-1", //oriente-station
-      "name": "h-j-t-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1530,7 +1530,7 @@ var data = {
     },
     {
       "id": "J-entrada", //oriente-station
-      "name": "j-entrada",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1558,7 +1558,7 @@ var data = {
     },
     {
       "id": "H-J-T-F-G-1", //oriente-station
-      "name": "h-j-t-f-g-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1592,7 +1592,7 @@ var data = {
     },
     {
       "id": "H-J-T-2", //oriente-station
-      "name": "h-j-t-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1632,7 +1632,7 @@ var data = {
     },
     {
       "id": "H-J-T-3", //oriente-station
-      "name": "h-j-t-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1660,7 +1660,7 @@ var data = {
     },
     {
       "id": "J-1", //oriente-station
-      "name": "j-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1688,7 +1688,7 @@ var data = {
     },
     {
       "id": "J-2", //oriente-station
-      "name": "j-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1716,7 +1716,7 @@ var data = {
     },
     {
       "id": "J-K-1", //oriente-station
-      "name": "j-k-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1744,7 +1744,7 @@ var data = {
     },
     {
       "id": "J-K-2", //oriente-station
-      "name": "j-k-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1772,7 +1772,7 @@ var data = {
     },
     {
       "id": "K-1", //oriente-station
-      "name": "k-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1800,7 +1800,7 @@ var data = {
     },
     {
       "id": "K-3", //oriente-station
-      "name": "k-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1828,7 +1828,7 @@ var data = {
     },
     {
       "id": "K-4", //oriente-station
-      "name": "k-4",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1856,7 +1856,7 @@ var data = {
     },
     {
       "id": "K-6", //oriente-station
-      "name": "k-6",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1884,7 +1884,7 @@ var data = {
     },
     {
       "id": "K-7", //oriente-station
-      "name": "k-7",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1912,7 +1912,7 @@ var data = {
     },
     {
       "id": "K-8", //oriente-station
-      "name": "k-8",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2002,7 +2002,7 @@ var data = {
     },
     {
       "id": "K-9", //oriente-station
-      "name": "k-9",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2030,7 +2030,7 @@ var data = {
     },
     {
       "id": "I-1", //oriente-station
-      "name": "i-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2058,7 +2058,7 @@ var data = {
     },
     {
       "id": "I-2", //oriente-station
-      "name": "i-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2086,7 +2086,7 @@ var data = {
     },
     {
       "id": "I-3", //oriente-station
-      "name": "i-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2120,7 +2120,7 @@ var data = {
     },
     {
       "id": "I-4", //oriente-station
-      "name": "i-4",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2142,7 +2142,7 @@ var data = {
     },
     {
       "id": "I-7", //oriente-station
-      "name": "i-7",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2176,7 +2176,7 @@ var data = {
     },
     {
       "id": "I-8", //oriente-station
-      "name": "i-8",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2204,7 +2204,7 @@ var data = {
     },
     {
       "id": "EAD-1", //oriente-station
-      "name": "ead-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2226,7 +2226,7 @@ var data = {
     },
     {
       "id": "EAD-2", //oriente-station
-      "name": "ead-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2254,7 +2254,7 @@ var data = {
     },
     {
       "id": "EAD-3", //oriente-station
-      "name": "ead-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2282,7 +2282,7 @@ var data = {
     },
     {
       "id": "EAD-4", //oriente-station
-      "name": "ead-4",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2310,7 +2310,7 @@ var data = {
     },
     {
       "id": "EAD-5", //oriente-station
-      "name": "ead-5",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2338,35 +2338,7 @@ var data = {
     },
     {
       "id": "EAD-6", //oriente-station
-      "name": "ead-6",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
-          "rotation": 0,
-          "target": "EAD-5"
-        },
-        {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "I-1"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
-    },
-    {
-      "id": "EAD-6", //oriente-station
-      "name": "ead-6",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2394,7 +2366,7 @@ var data = {
     },
     {
       "id": "I-V-1", //oriente-station
-      "name": "i-v-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2422,7 +2394,7 @@ var data = {
     },
     {
       "id": "I-V-2", //oriente-station
-      "name": "i-v-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2450,7 +2422,7 @@ var data = {
     },
     {
       "id": "I-V-3", //oriente-station
-      "name": "i-v-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2478,7 +2450,7 @@ var data = {
     },
     {
       "id": "I-V-EN-1", //oriente-station
-      "name": "i-v-en-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2506,7 +2478,7 @@ var data = {
     },
     {
       "id": "I-V-EN-2", //oriente-station
-      "name": "i-v-en-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2540,7 +2512,7 @@ var data = {
     },
     {
       "id": "I-V-EN-3", //oriente-station
-      "name": "i-v-en-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2568,7 +2540,7 @@ var data = {
     },
     {
       "id": "I-V-EN-4", //oriente-station
-      "name": "i-v-en-4",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2596,7 +2568,7 @@ var data = {
     },
     {
       "id": "J-entrada-oeste", //oriente-station
-      "name": "j-entrada-oeste",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2630,7 +2602,7 @@ var data = {
     },
     {
       "id": "H-F-G-2", //oriente-station
-      "name": "h-f-g-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2664,7 +2636,7 @@ var data = {
     },
     {
       "id": "H-F-G-3", //oriente-station
-      "name": "h-f-g-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2692,7 +2664,7 @@ var data = {
     },
     {
       "id": "H-F-G-4", //oriente-station
-      "name": "h-f-g-4",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2720,7 +2692,7 @@ var data = {
     },
     {
       "id": "J-entrada-norte-1", //oriente-station
-      "name": "j-entrada-norte-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2754,7 +2726,7 @@ var data = {
     },
     {
       "id": "T-entrada-2", //oriente-station
-      "name": "T-entrada-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2782,7 +2754,7 @@ var data = {
     },
     {
       "id": "D1-Z-1", //oriente-station
-      "name": "D1-Z-1",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2810,7 +2782,7 @@ var data = {
     },
     {
       "id": "D1-Z-2", //oriente-station
-      "name": "D1-Z-2",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2838,7 +2810,7 @@ var data = {
     },
     {
       "id": "D1-Z-3", //oriente-station
-      "name": "D1-Z-3",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2866,7 +2838,7 @@ var data = {
     },
     {
       "id": "D1-Z-4", //oriente-station
-      "name": "D1-Z-4",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2894,7 +2866,7 @@ var data = {
     },
     {
       "id": "D1-Z-5", //oriente-station
-      "name": "D1-Z-5",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2922,7 +2894,7 @@ var data = {
     },
     {
       "id": "D1-Z-6", //oriente-station
-      "name": "D1-Z-6",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2956,7 +2928,7 @@ var data = {
     },
     {
       "id": "BIBLIOPASI", //oriente-station
-      "name": "Biblioteca",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3438,7 +3410,7 @@ var data = {
     },
     {
       "id": "CANCHAPASILLO1", //oriente-station
-      "name": "Cancha",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3466,7 +3438,7 @@ var data = {
     },
     {
       "id": "CANCHAPASILLO5", //oriente-station
-      "name": "Cancha",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3516,7 +3488,7 @@ var data = {
     },
     {
       "id": "CANCHAPASILLO6", //oriente-station
-      "name": "Cancha",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3550,7 +3522,7 @@ var data = {
     },
     {
       "id": "CANCHAPASILLO6-6", //oriente-station
-      "name": "Cancha",
+      "name": "Gimnasio",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3584,7 +3556,7 @@ var data = {
     },
     {
       "id": "CANCHAPASILLO8", //oriente-station
-      "name": "Cancha",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3612,7 +3584,7 @@ var data = {
     },
     {
       "id": "CANCHAPASILLO9", //oriente-station
-      "name": "Cancha",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3634,7 +3606,7 @@ var data = {
     },
     {
       "id": "CAMPO1", //oriente-station
-      "name": "Campo1",
+      "name": "Campo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
