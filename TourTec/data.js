@@ -34,8 +34,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-zona0", //oriente-station
@@ -62,8 +62,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-zona1", //oriente-station
@@ -96,8 +96,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-zonaoeste", //oriente-station
@@ -124,8 +124,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-zonaeste", //oriente-station
@@ -152,8 +152,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-zonanorte", //oriente-station
@@ -186,8 +186,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-entrada", //oriente-station
@@ -214,8 +214,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-zona0-1", //oriente-station
@@ -254,8 +254,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-zonaeste-1", //oriente-station
@@ -275,15 +275,15 @@ var data = {
           "target": "D1-zonaeste-2"
         },
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zona0-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-zonaeste-2", //oriente-station
@@ -303,15 +303,15 @@ var data = {
           "target": "D1-zonaeste-1"
         },
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zonaeste-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-zonaeste-3", //oriente-station
@@ -325,7 +325,7 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zonaeste-2"
@@ -344,8 +344,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-salonredes", //oriente-station
@@ -359,15 +359,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zonaeste-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-zonaoeste-1", //oriente-station
@@ -381,7 +381,7 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zona0-1"
@@ -400,8 +400,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-zonaoeste-2", //oriente-station
@@ -415,15 +415,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zonaoeste-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-IOs-1", //oriente-station
@@ -437,7 +437,7 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-IOs-2"
@@ -450,8 +450,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-IOs-2", //oriente-station
@@ -472,8 +472,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Esc-ext-1", //oriente-station
@@ -487,21 +487,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.56678386676067,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Esc-ext-3"
         },
         {
-          "yaw":-40.8,
+          "yaw": -40.8,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zonaeste-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Esc-ext-3", //oriente-station
@@ -521,15 +521,15 @@ var data = {
           "target": "D1-Esc-ext-3"
         },
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6,
           "rotation": 0,
           "target": "D1-2piso-zonaoeste-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-2piso-zona0", //oriente-station
@@ -543,7 +543,7 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-zona0-1"
@@ -556,8 +556,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-2piso-zonaoeste-1", //oriente-station
@@ -571,21 +571,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.1,
+          "yaw": -89.1,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-2piso-zona0"
         },
         {
-          "yaw":-42.2,
+          "yaw": -42.2,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-2piso-zonaoeste-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-2piso-zonaoeste-2", //oriente-station
@@ -599,21 +599,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.56678386676067,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-2piso-zonaoeste-1"
         },
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -5.8,
           "rotation": 0,
           "target": "D1-Esc-ext-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-entrada", //oriente-station 
@@ -640,8 +640,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-Esc-ext-1", //oriente-station  
@@ -653,29 +653,29 @@ var data = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [ 
+      "linkHotspots": [
         {
-          "yaw":-20.4,
+          "yaw": -20.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaeste-3"
         },
         {
-          "yaw":-66.1,
+          "yaw": -66.1,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-6"
         },
         {
-          "yaw":-50.2,
+          "yaw": -50.2,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-Esc-ext-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-Esc-ext-3", //oriente-station
@@ -689,21 +689,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-100.4,
+          "yaw": -100.4,
           "pitch": -5.6,
           "rotation": 0,
           "target": "Z-Esc-ext-1"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-4"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-2piso-zonaoeste-4", //oriente-station
@@ -717,21 +717,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-Esc-ext-3"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-2piso-zonaoeste-3", //oriente-station
@@ -745,21 +745,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-4"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-2piso-zonaoeste-2", //oriente-station
@@ -773,21 +773,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-3"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-2piso-zonaoeste-1", //oriente-station
@@ -801,21 +801,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-2"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zona0"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-2piso-zona0", //oriente-station 
@@ -829,21 +829,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-1"
         },
         {
-          "yaw":-50.1,
+          "yaw": -50.1,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zona0-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-zonaeste-1", //oriente-station  
@@ -857,21 +857,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zona0-1"
         },
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaeste-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-zonaeste-2", //oriente-station
@@ -885,21 +885,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaeste-1"
         },
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaeste-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-zonaeste-3", //oriente-station
@@ -913,21 +913,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-Esc-ext-1"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaeste-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-zonaoeste-1", //oriente-station 
@@ -941,21 +941,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zona0-1"
         },
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaoeste-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-zonaoeste-2", //oriente-station
@@ -969,21 +969,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaoeste-1"
         },
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaoeste-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-zonaoeste-3", //oriente-station
@@ -997,15 +997,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaoeste-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Z-zona0-1", //oriente-station
@@ -1019,19 +1019,19 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-41.9,
+          "yaw": -41.9,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-2piso-zona0"
         },
         {
-          "yaw":-77.8,
+          "yaw": -77.8,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaeste-1"
         },
         {
-          "yaw":-99.9,
+          "yaw": -99.9,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Z-zonaoeste-1"
@@ -1039,8 +1039,8 @@ var data = {
         //hace falta la salida
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "camino-principal", //oriente-station
@@ -1073,8 +1073,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Entrada-B-1", //oriente-station
@@ -1099,11 +1099,11 @@ var data = {
           "rotation": 0,
           "target": "Entrada-BQ@-1"
         }
-        
+
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-entrada-norte-2", //oriente-station
@@ -1123,15 +1123,15 @@ var data = {
           "target": "B-Q-A-H-4"
         },
         {
-          "yaw":  -6.2807869,
+          "yaw": -6.2807869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "B-entrada-norte-1" 
+          "target": "B-entrada-norte-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-entrada-norte-1", //oriente-station
@@ -1154,12 +1154,12 @@ var data = {
           "yaw": -8.80897869,
           "pitch": -100.333333333,
           "rotation": 1,
-          "target": "B-zonanorte" 
+          "target": "B-zonanorte"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Entrada-BQ@-1", //oriente-station
@@ -1193,8 +1193,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q@-1", //oriente-station
@@ -1227,8 +1227,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q@-2", //oriente-station
@@ -1255,8 +1255,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q-1", //oriente-station
@@ -1289,8 +1289,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "Q-entrada", //oriente-station
@@ -1311,8 +1311,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q-3", //oriente-station
@@ -1333,8 +1333,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q-A-H-3", //oriente-station
@@ -1357,13 +1357,13 @@ var data = {
           "yaw": -3.20897869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "B-Q-A-H-4" 
+          "target": "B-Q-A-H-4"
         },
         {
           "yaw": -3.20897869,
           "pitch": -100.1,
           "rotation": 0,
-          "target": "BIBLIOPASI" 
+          "target": "BIBLIOPASI"
         },
         {
           "yaw": -7.80897869,
@@ -1373,8 +1373,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q-A-H-4", //oriente-station
@@ -1397,12 +1397,12 @@ var data = {
           "yaw": -6.5597869,
           "pitch": -100.333333333,
           "rotation": 1,
-          "target": "B-entrada-norte-2" 
+          "target": "B-entrada-norte-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q-A-H-3.1", //oriente-station
@@ -1425,12 +1425,12 @@ var data = {
           "yaw": -4.7597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "B-Q-A-H-3.2" 
+          "target": "B-Q-A-H-3.2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "B-Q-A-H-3.2", //oriente-station
@@ -1453,18 +1453,18 @@ var data = {
           "yaw": -6.3597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-F-G-2" 
+          "target": "H-F-G-2"
         },
         {
           "yaw": -4.7597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-entrada-norte-1" 
+          "target": "H-entrada-norte-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-entrada-norte-1", //oriente-station
@@ -1487,12 +1487,12 @@ var data = {
           "yaw": -6.2097869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-J-T-1" 
+          "target": "H-J-T-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-J-T-1", //oriente-station
@@ -1515,18 +1515,18 @@ var data = {
           "yaw": -4.7097869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-entrada-norte-1" 
+          "target": "H-entrada-norte-1"
         },
         {
           "yaw": -6.8597869,
           "pitch": -100.333333333,
           "rotation": 5,
-          "target": "J-entrada" 
+          "target": "J-entrada"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "J-entrada", //oriente-station
@@ -1549,12 +1549,12 @@ var data = {
           "yaw": -6.3097869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "J-entrada-norte-1" 
+          "target": "J-entrada-norte-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-J-T-F-G-1", //oriente-station
@@ -1587,8 +1587,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-J-T-2", //oriente-station
@@ -1620,15 +1620,15 @@ var data = {
           "target": "J-entrada-oeste"
         },
         {
-          "yaw": -6.30897869,
-          "pitch": -1.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "K-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-J-T-3", //oriente-station
@@ -1655,8 +1655,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "J-1", //oriente-station
@@ -1683,8 +1683,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "J-2", //oriente-station
@@ -1711,8 +1711,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "J-K-1", //oriente-station
@@ -1739,8 +1739,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "J-K-2", //oriente-station
@@ -1767,8 +1767,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-1", //oriente-station
@@ -1782,21 +1782,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "J-K-2"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "K-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-3", //oriente-station
@@ -1810,21 +1810,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "K-1"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "K-4"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-4", //oriente-station
@@ -1838,21 +1838,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "K-3"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "K-6"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-6", //oriente-station
@@ -1866,21 +1866,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "K-4"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "K-7"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-7", //oriente-station
@@ -1894,21 +1894,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "K-6"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "K-8"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-8", //oriente-station
@@ -1922,8 +1922,8 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "K-7"
         },
@@ -1934,15 +1934,15 @@ var data = {
           "target": "K-Z-1"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "K-9"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-Z-1", //oriente-station
@@ -1969,8 +1969,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-Z-2", //oriente-station
@@ -1997,8 +1997,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "K-9", //oriente-station
@@ -2025,8 +2025,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-1", //oriente-station
@@ -2040,21 +2040,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-2"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw": -89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "EAD-6"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-2", //oriente-station
@@ -2068,21 +2068,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-1"
         },
-        {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+        {  
+"yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "I-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-3", //oriente-station
@@ -2096,14 +2096,14 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-2"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "I-4"
         },
@@ -2115,8 +2115,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-4", //oriente-station
@@ -2130,15 +2130,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-7", //oriente-station
@@ -2152,8 +2152,8 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-4"
         },
@@ -2164,15 +2164,15 @@ var data = {
           "target": "I-V-1"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "I-8"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-8", //oriente-station
@@ -2186,21 +2186,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-7"
         },
         {
-          "yaw": -18.0597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "K-9"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "EAD-1", //oriente-station
@@ -2214,15 +2214,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "EAD-2"
+        },
+        {
+          "yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
+          "rotation": 0,
+          "target": "CANCHA"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "EAD-2", //oriente-station
@@ -2236,21 +2242,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "EAD-1"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "EAD-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "EAD-3", //oriente-station
@@ -2264,21 +2270,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865, 
           "rotation": 0,
           "target": "EAD-2"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "EAD-4"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "EAD-4", //oriente-station
@@ -2292,21 +2298,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865, 
           "rotation": 0,
           "target": "EAD-3"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "EAD-5"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "EAD-5", //oriente-station
@@ -2320,21 +2326,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "EAD-4"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "EAD-6"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "EAD-6", //oriente-station
@@ -2348,21 +2354,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "EAD-5"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+"yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "I-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-V-1", //oriente-station
@@ -2376,21 +2382,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-V-2"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+"yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "I-7"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-V-2", //oriente-station
@@ -2404,21 +2410,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-V-1"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "I-V-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-V-3", //oriente-station
@@ -2432,21 +2438,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw":-89.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "I-V-2"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
+          "yaw":-42.56678386676067,
+"pitch": -6.0076340532339251865,
           "rotation": 1,
           "target": "I-V-EN-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-V-EN-1", //oriente-station
@@ -2473,8 +2479,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-V-EN-2", //oriente-station
@@ -2507,8 +2513,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-V-EN-3", //oriente-station
@@ -2535,8 +2541,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "I-V-EN-4", //oriente-station
@@ -2563,8 +2569,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "J-entrada-oeste", //oriente-station
@@ -2597,8 +2603,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-F-G-2", //oriente-station
@@ -2615,24 +2621,24 @@ var data = {
           "yaw": -7.75897869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-F-G-3" 
+          "target": "H-F-G-3"
         },
         {
           "yaw": -3.1597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "B-Q-A-H-3.2" 
+          "target": "B-Q-A-H-3.2"
         },
         {
           "yaw": -4.7597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-J-T-F-G-1" 
+          "target": "H-J-T-F-G-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-F-G-3", //oriente-station
@@ -2649,18 +2655,18 @@ var data = {
           "yaw": -7.75897869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-F-G-2" 
+          "target": "H-F-G-2"
         },
         {
           "yaw": -4.7597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-F-G-4" 
+          "target": "H-F-G-4"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "H-F-G-4", //oriente-station
@@ -2687,8 +2693,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "J-entrada-norte-1", //oriente-station
@@ -2711,18 +2717,18 @@ var data = {
           "yaw": -7.9097869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "J-entrada-oeste" 
+          "target": "J-entrada-oeste"
         },
         {
           "yaw": -6.1097869,
           "pitch": -100.333333333,
           "rotation": 5,
-          "target": "T-entrada-2" 
+          "target": "T-entrada-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "T-entrada-2", //oriente-station
@@ -2745,12 +2751,12 @@ var data = {
           "yaw": -7.9257869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "H-entrada-norte-1" 
+          "target": "H-entrada-norte-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Z-1", //oriente-station
@@ -2764,21 +2770,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.56678386676067,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-entrada"
         },
         {
-          "yaw":-42.1,
+          "yaw": -42.1,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Z-2", //oriente-station
@@ -2792,21 +2798,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.56678386676067,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-3"
         },
         {
-          "yaw":-42.56678386676067,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Z-3", //oriente-station
@@ -2820,21 +2826,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-47.1,
+          "yaw": -47.1,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-4"
         },
         {
-          "yaw":-100.56678386676067,
+          "yaw": -100.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Z-4", //oriente-station
@@ -2848,21 +2854,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-46.9,
+          "yaw": -46.9,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-5"
         },
         {
-          "yaw":-100.3,
+          "yaw": -100.3,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Z-5", //oriente-station
@@ -2876,21 +2882,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.8,
+          "yaw": -89.8,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-4"
         },
         {
-          "yaw":46.8,
+          "yaw": 46.8,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-6"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "D1-Z-6", //oriente-station
@@ -2904,13 +2910,13 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "Entrada-tec-1"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "D1-Z-5"
@@ -2923,8 +2929,8 @@ var data = {
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIOPASI", //oriente-station
@@ -2938,21 +2944,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO1"
         },
         {
-          "yaw":-4.4,
-          "pitch": -60.0076340532339251865,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "B-Q-A-H-3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO1", //oriente-station
@@ -2966,21 +2972,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO2"
         },
         {
-          "yaw":-89.4,
+          "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIOPASI"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO2", //oriente-station
@@ -2994,27 +3000,27 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO3"
         },
         {
-          "yaw":-4.4,
-          "pitch": -8.0076340532339251865,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO2-9"
         },
         {
-          "yaw":-89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -70.4,
+          "pitch": -9.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO3", //oriente-station
@@ -3028,21 +3034,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO4"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO4", //oriente-station
@@ -3056,21 +3062,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO5"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO3"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO5", //oriente-station
@@ -3084,21 +3090,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO7"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO4"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO7-6", //oriente-station
@@ -3112,15 +3118,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO7"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO7", //oriente-station
@@ -3134,27 +3140,27 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO1"
         },
         {
-          "yaw":-4.4,
+          "yaw": -4.4,
           "pitch": -60.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO7-6"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO5"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "BIBLIO2-9", //oriente-station
@@ -3168,15 +3174,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "BIBLIO2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "PASICAFE", //oriente-station
@@ -3190,27 +3196,27 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CAFE1"
         },
         {
-          "yaw":-4.4,
+          "yaw": -4.4,
           "pitch": -60.0076340532339251865,
           "rotation": 0,
           "target": "I-V-EN-2"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "camino-principal"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CAFE1", //oriente-station
@@ -3224,21 +3230,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "PASICAFE"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CAFE2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CAFE2", //oriente-station
@@ -3252,21 +3258,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CAFE3"
         },
         {
-          "yaw":-89.4,
+          "yaw": -89.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CAFE1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CAFE3", //oriente-station
@@ -3280,15 +3286,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-42.4,
+          "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CAFE2"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CAMINOCANCHAS", //oriente-station
@@ -3302,27 +3308,27 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHATECHA1"
         },
         {
-          "yaw":-42.4,
-          "pitch": -3.0076340532339251865,
+          "yaw": -42.4,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHA"
         },
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "I-8"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHA", //oriente-station
@@ -3336,27 +3342,27 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CAMINOCANCHAS"
         },
         {
-          "yaw":-7.4,
-          "pitch": -3.0076340532339251865,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO1"
         },
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "EAD-1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHATECHA1", //oriente-station
@@ -3370,21 +3376,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHATECHA3"
         },
         {
-          "yaw":-9.4,
-          "pitch": -1.5,
+          "yaw": -42.56678386676067,
+          "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CAMINOCANCHAS"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHATECHA3", //oriente-station
@@ -3398,15 +3404,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHATECHA1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHAPASILLO1", //oriente-station
@@ -3420,21 +3426,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO5"
         },
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "CANCHA"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHAPASILLO5", //oriente-station
@@ -3448,21 +3454,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO1"
         },
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "CANCHAPASILLO6"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "FUT7", //oriente-station
@@ -3476,15 +3482,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO6-6"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHAPASILLO6", //oriente-station
@@ -3498,27 +3504,27 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO5"
         },
         {
-          "yaw":-4.4,
+          "yaw": -4.4,
           "pitch": -3.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO6-6"
         },
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "CANCHAPASILLO8"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHAPASILLO6-6", //oriente-station
@@ -3532,27 +3538,27 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "FUT7"
         },
         {
-          "yaw":-4.4,
+          "yaw": -4.4,
           "pitch": -3.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO6"
         },
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "CAMPO1"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHAPASILLO8", //oriente-station
@@ -3566,21 +3572,21 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO6"
         },
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "CANCHAPASILLO9"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CANCHAPASILLO9", //oriente-station
@@ -3594,15 +3600,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-2.4,
+          "yaw": -2.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
           "target": "CANCHAPASILLO8"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     },
     {
       "id": "CAMPO1", //oriente-station
@@ -3616,15 +3622,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw":-9.4,
+          "yaw": -9.4,
           "pitch": -1.5,
           "rotation": 0,
           "target": "CANCHAPASILLO6-6"
         }
       ],
       "infoHotspots": [{}],
-      "photoHotspots":[{}],
-      "videoHotspots":[{}]
+      "photoHotspots": [{}],
+      "videoHotspots": [{}]
     }
   ],
   "name": "Sample Tour",
