@@ -1620,9 +1620,9 @@ var data = {
           "target": "J-entrada-oeste"
         },
         {
-          "yaw": -89.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
+          "yaw": -4,
+          "pitch": -100.333333333,
+          "rotation": -1,
           "target": "K-1"
         }
       ],
@@ -1716,7 +1716,7 @@ var data = {
     },
     {
       "id": "J-K-1", //oriente-station
-      "name": "Pasillo",
+      "name": "q",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1726,15 +1726,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
+          "yaw": -89.2,
           "pitch": -100.333333333,
           "rotation": 0,
           "target": "J-K-2"
         },
         {
-          "yaw": -2.5597869,
+          "yaw": -42.1,
           "pitch": -100.333333333,
-          "rotation": 1,
+          "rotation": 0,
           "target": "J-1"
         }
       ],
@@ -1754,16 +1754,22 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
+          "yaw": -6.2,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-3"
+        },
+        {
+          "yaw": -3.1,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "K-1"
+        },
+        {
+          "yaw": -4.8,
           "pitch": -100.333333333,
           "rotation": 0,
           "target": "J-K-1"
-        },
-        {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "K-1"
         }
       ],
       "infoHotspots": [{}],
@@ -1782,16 +1788,16 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -89.56678386676067,
-          "pitch": -6.0076340532339251865,
+          "yaw": -41,
+          "pitch": -6.1,
           "rotation": 0,
-          "target": "J-K-2"
+          "target": "H-J-T-2"
         },
         {
-          "yaw": -42.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 1,
-          "target": "K-3"
+          "yaw": -88.2,
+          "pitch": -6.1,
+          "rotation": 0,
+          "target": "J-K-2"
         }
       ],
       "infoHotspots": [{}],
@@ -1810,14 +1816,14 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -89.56678386676067,
-          "pitch": -6.0076340532339251865,
+          "yaw": -41,
+          "pitch": -6.1,
           "rotation": 0,
-          "target": "K-1"
+          "target": "J-K-2"
         },
         {
-          "yaw": -42.56678386676067,
-          "pitch": -6.0076340532339251865,
+          "yaw": -22.56678386676067,
+          "pitch": -6.1,
           "rotation": 1,
           "target": "K-4"
         }
