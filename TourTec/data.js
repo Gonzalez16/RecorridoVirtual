@@ -1642,16 +1642,16 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
+          "yaw": -89.5,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-1"
+        },
+        {
+          "yaw": -42.5,
           "pitch": -100.333333333,
           "rotation": 0,
           "target": "H-J-T-2"
-        },
-        {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "J-1"
         }
       ],
       "infoHotspots": [{}],
@@ -1670,16 +1670,16 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
+          "yaw": -89.5,
+          "pitch": -100.333333333,
+          "rotation": 0,
+          "target": "J-2"
+        },
+        {
+          "yaw": -42.5,
           "pitch": -100.333333333,
           "rotation": 0,
           "target": "H-J-T-3"
-        },
-        {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
-          "rotation": 1,
-          "target": "J-2"
         }
       ],
       "infoHotspots": [{}],
@@ -1704,9 +1704,9 @@ var data = {
           "target": "J-K-1"
         },
         {
-          "yaw": -2.5597869,
+          "yaw": -42.5,
           "pitch": -100.333333333,
-          "rotation": 1,
+          "rotation": 0,
           "target": "J-1"
         }
       ],
@@ -1716,7 +1716,7 @@ var data = {
     },
     {
       "id": "J-K-1", //oriente-station
-      "name": "q",
+      "name": "Pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -1726,16 +1726,16 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -89.2,
+          "yaw": -89.5,
           "pitch": -100.333333333,
           "rotation": 0,
           "target": "J-K-2"
         },
         {
-          "yaw": -42.1,
+          "yaw": -42.5,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "J-1"
+          "target": "J-2"
         }
       ],
       "infoHotspots": [{}],
@@ -1816,15 +1816,15 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -41,
+          "yaw": -89.4,
           "pitch": -6.1,
           "rotation": 0,
           "target": "J-K-2"
         },
         {
-          "yaw": -22.56678386676067,
+          "yaw": -6.2,
           "pitch": -6.1,
-          "rotation": 1,
+          "rotation": 0,
           "target": "K-4"
         }
       ],
@@ -1850,9 +1850,9 @@ var data = {
           "target": "K-3"
         },
         {
-          "yaw": -42.56678386676067,
+          "yaw": -3.2,
           "pitch": -6.0076340532339251865,
-          "rotation": 1,
+          "rotation": 0,
           "target": "K-6"
         }
       ],
@@ -1878,9 +1878,15 @@ var data = {
           "target": "K-4"
         },
         {
-          "yaw": -42.56678386676067,
+          "yaw": -4,
           "pitch": -6.0076340532339251865,
-          "rotation": 1,
+          "rotation": -1,
+          "target": "K-8"
+        },
+        {
+          "yaw": -3,
+          "pitch": -6.0076340532339251865,
+          "rotation": 0,
           "target": "K-7"
         }
       ],
@@ -1900,16 +1906,16 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -89.56678386676067,
+          "yaw": -6.42,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "K-6"
+          "target": "K-Z-1"
         },
         {
           "yaw": -42.56678386676067,
           "pitch": -6.0076340532339251865,
-          "rotation": 1,
-          "target": "K-8"
+          "rotation": 0,
+          "target": "K-6"
         }
       ],
       "infoHotspots": [{}],
@@ -1931,19 +1937,13 @@ var data = {
           "yaw": -89.56678386676067,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "K-7"
-        },
-        {
-          "yaw": -30.0597869,
-          "pitch": -10.333333333,
-          "rotation": 0,
-          "target": "K-Z-1"
-        },
-        {
-          "yaw": -42.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 1,
           "target": "K-9"
+        },
+        {
+          "yaw": -41.4,
+          "pitch": -6.0076340532339251865,
+          "rotation": -1,
+          "target": "K-6"
         }
       ],
       "infoHotspots": [{}],
@@ -1965,7 +1965,7 @@ var data = {
           "yaw": -3.0597869,
           "pitch": -100.333333333,
           "rotation": 0,
-          "target": "K-8"
+          "target": "K-7"
         },
         {
           "yaw": -2.5597869,
@@ -2008,7 +2008,7 @@ var data = {
     },
     {
       "id": "K-9", //oriente-station
-      "name": "Pasillo",
+      "name": "q",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2018,13 +2018,13 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
+          "yaw": -6.4,
           "pitch": -100.333333333,
           "rotation": 0,
           "target": "K-8"
         },
         {
-          "yaw": -2.5597869,
+          "yaw": -100.4,
           "pitch": -100.333333333,
           "rotation": 1,
           "target": "I-8"
@@ -2919,7 +2919,7 @@ var data = {
           "yaw": -42.4,
           "pitch": -6.0076340532339251865,
           "rotation": 0,
-          "target": "Entrada-tec-1"
+          "target": "K-Z-1"
         },
         {
           "yaw": -89.4,
