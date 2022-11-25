@@ -649,26 +649,26 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.6776837739864483,
+        "pitch": 0.01944629598293801,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -20.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.5159248254628164,
+          "pitch": 0.27366909587103194,
           "rotation": 0,
           "target": "Z-zonaeste-3"
         },
         {
-          "yaw": -66.1,
-          "pitch": -6.0076340532339251865,
+          "yaw": -3.106781996446408,
+          "pitch": 0.17926712387300725,
           "rotation": 0,
           "target": "D1-Z-6"
         },
         {
-          "yaw": -50.2,
-          "pitch": -6.0076340532339251865,
+          "yaw": 0.03275887422271495,
+          "pitch": 0.17493402411371406,
           "rotation": 0,
           "target": "Z-Esc-ext-3"
         }
@@ -683,20 +683,20 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.7492766053825743,
+        "pitch": 0.24162155226746762,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -100.4,
-          "pitch": -5.6,
+          "yaw": 0.05389333165181043,
+          "pitch": 0.6126924831699441,
           "rotation": 0,
           "target": "Z-Esc-ext-1"
         },
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.3164597520197852,
+          "pitch": 0.36393877970042254,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-4"
         }
@@ -711,76 +711,20 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.6264652354477285,
+        "pitch": 0.08420082487724834,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.3072121319383463,
+          "pitch": 0.5176273559534437,
           "rotation": 0,
           "target": "Z-Esc-ext-3"
         },
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "Z-2piso-zonaoeste-3"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots": [{}],
-      "videoHotspots": [{}]
-    },
-    {
-      "id": "Z-2piso-zonaoeste-3", //oriente-station
-      "name": "Edificio Z",
-      "edificio": "Edificio Z",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "Z-2piso-zonaoeste-4"
-        },
-        {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "Z-2piso-zonaoeste-2"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots": [{}],
-      "videoHotspots": [{}]
-    },
-    {
-      "id": "Z-2piso-zonaoeste-2", //oriente-station
-      "name": "Edificio Z",
-      "edificio": "Edificio Z",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "Z-2piso-zonaoeste-3"
-        },
-        {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.4974543173055608,
+          "pitch": 0.3654029665620673,
           "rotation": 0,
           "target": "Z-2piso-zonaoeste-1"
         }
@@ -795,50 +739,22 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.502686018797247,
+        "pitch": 0.10109240420272414,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "Z-2piso-zonaoeste-2"
-        },
-        {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "Z-2piso-zona0"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots": [{}],
-      "videoHotspots": [{}]
-    },
-    {
-      "id": "Z-2piso-zona0", //oriente-station 
-      "name": "Edificio Z",
-      "edificio": "Edificio Z",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "Z-2piso-zonaoeste-1"
-        },
-        {
-          "yaw": -50.1,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
+          "yaw": -1.1567103475947569,
+          "pitch": 0.28079068001055063,
+          "rotation": 0.7853981633974483,
           "target": "Z-zona0-1"
+        },
+        {
+          "yaw": 1.4456507543167483,
+          "pitch": 0.37543046575335737,
+          "rotation": 0,
+          "target": "Z-2piso-zonaoeste-4"
         }
       ],
       "infoHotspots": [{}],
@@ -851,20 +767,20 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.7248227822437165,
+        "pitch": 0.06763042702426603,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
+          "yaw": -1.43600550734517,
+          "pitch": 0.4837037015136456,
+          "rotation": 5.497787143782138,
           "target": "Z-zona0-1"
         },
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.6381775598193435,
+          "pitch": 0.20696588656317516,
           "rotation": 0,
           "target": "Z-zonaeste-2"
         }
@@ -879,20 +795,20 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.6245499998546613,
+        "pitch": 0.10432439383452774,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.5152273008732404,
+          "pitch": 0.36486836909344333,
           "rotation": 0,
           "target": "Z-zonaeste-1"
         },
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.5992800054360874,
+          "pitch": 0.33312623858923374,
           "rotation": 0,
           "target": "Z-zonaeste-3"
         }
@@ -907,20 +823,20 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.5265344975143567,
+        "pitch": 0.1418207716993649,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.6909743891417754,
+          "pitch": 0.41714131764940987,
           "rotation": 0,
           "target": "Z-Esc-ext-1"
         },
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.566711520775133,
+          "pitch": 0.3139872669208241,
           "rotation": 0,
           "target": "Z-zonaeste-2"
         }
@@ -935,20 +851,20 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.6131174510664028,
+        "pitch": 0.1606969922941044,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.5847800902421874,
+          "pitch": 0.4823268334202897,
           "rotation": 0,
           "target": "Z-zona0-1"
         },
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.5246505427834123,
+          "pitch": 0.43294861765598824,
           "rotation": 0,
           "target": "Z-zonaoeste-2"
         }
@@ -963,20 +879,20 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.776543372504297,
+        "pitch": 0.11237136306411344,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.3853544743358768,
+          "pitch": 0.507565255390567,
           "rotation": 0,
           "target": "Z-zonaoeste-1"
         },
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.7294691074732302,
+          "pitch": 0.5151235466662012,
           "rotation": 0,
           "target": "Z-zonaoeste-3"
         }
@@ -991,14 +907,14 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.3734278719083512,
+        "pitch": 0.08300682991773733,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.4711875019732013,
+          "pitch": 0.47244859550801266,
           "rotation": 0,
           "target": "Z-zonaoeste-2"
         }
@@ -1013,30 +929,36 @@ var data = {
       "edificio": "Edificio Z",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.2614380493495787,
+        "pitch": 0.12436790785042007,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -41.9,
-          "pitch": -6.0076340532339251865,
+          "yaw": 2.4241406967614916,
+          "pitch": 0.0749277576029499,
           "rotation": 0,
-          "target": "Z-2piso-zona0"
+          "target": "Z-2piso-zonaoeste-1"
         },
         {
-          "yaw": -77.8,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
+          "yaw": 2.857007381304056,
+          "pitch": 0.19807512981562425,
+          "rotation": 1.5707963267948966,
           "target": "Z-zonaeste-1"
         },
         {
-          "yaw": -99.9,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
+          "yaw": 1.8068198304705927,
+          "pitch": 0.21462373171115523,
+          "rotation": 4.71238898038469,
           "target": "Z-zonaoeste-1"
+        },
+        {
+          "yaw": -0.8551360711903797,
+          "pitch": 0.4261117363967557,
+          "rotation": 0,
+          "target": "K-Z-2"
         }
-        //hace falta la salida
+        
       ],
       "infoHotspots": [{}],
       "photoHotspots": [{}],
@@ -1930,8 +1852,8 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -6.42,
-          "pitch": -6.0076340532339251865,
+          "yaw": 0.07719705704503,
+          "pitch": 0.2926854446324718,
           "rotation": 0,
           "target": "K-Z-1"
         },
@@ -1980,21 +1902,21 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.13415847008829473,
+        "pitch": 0.08442398152856612,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": -1.4938955754148502,
+          "pitch": 0.24348508581945438,
           "rotation": 0,
           "target": "K-7"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
-          "rotation": 1,
+          "yaw": 0.013823538603922714,
+          "pitch": 0.4472171256549249,
+          "rotation": 0,
           "target": "K-Z-2"
         }
       ],
@@ -2008,22 +1930,28 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.22620060907795825,
+        "pitch": 0.08393169710343074,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -3.0597869,
-          "pitch": -100.333333333,
+          "yaw": 3.102791431369055,
+          "pitch": 0.26930338014460276,
           "rotation": 0,
           "target": "K-Z-1"
         },
         {
-          "yaw": -2.5597869,
-          "pitch": -100.333333333,
-          "rotation": 1,
+          "yaw": 0.2800975408262847,
+          "pitch": 0.3495961791493798,
+          "rotation": 0.7853981633974483,
           "target": "D1-Z-6"
+        },
+        {
+          "yaw": -0.03128550171143196,
+          "pitch": 0.28991989210167546,
+          "rotation": 0,
+          "target": "Z-zona0-1"
         }
       ],
       "infoHotspots": [{}],
@@ -2032,7 +1960,7 @@ var data = {
     },
     {
       "id": "K-9", //oriente-station
-      "name": "q",
+      "name": "pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2060,7 +1988,7 @@ var data = {
     },
     {
       "id": "I-1", //oriente-station
-      "name": "I-1",
+      "name": "pasillo",
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -2716,50 +2644,22 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.3507083314802362,
+        "pitch": -0.03608722694042754,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -89.56678386676067,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.2851688934344416,
+          "pitch": 0.6015636310186174,
           "rotation": 0,
           "target": "D1-entrada"
         },
         {
-          "yaw": -42.1,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-Z-2"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots": [{}],
-      "videoHotspots": [{}]
-    },
-    {
-      "id": "D1-Z-2", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -89.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
+          "yaw": 2.1104979241470945,
+          "pitch": 0.1600045453897554,
+          "rotation": 5.497787143782138,
           "target": "D1-Z-3"
-        },
-        {
-          "yaw": -42.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-Z-1"
         }
       ],
       "infoHotspots": [{}],
@@ -2772,50 +2672,22 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.0816352602190662,
+        "pitch": 0.07630154282129453,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -47.1,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-Z-4"
-        },
-        {
-          "yaw": -100.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "D1-Z-2"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots": [{}],
-      "videoHotspots": [{}]
-    },
-    {
-      "id": "D1-Z-4", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -46.9,
-          "pitch": -6.0076340532339251865,
+          "yaw": 3.1099681888860413,
+          "pitch": 0.14447409792121846,
           "rotation": 0,
           "target": "D1-Z-5"
         },
         {
-          "yaw": -100.3,
-          "pitch": -6.0076340532339251865,
+          "yaw": -0.01725564816470282,
+          "pitch": 0.39690525677278643,
           "rotation": 0,
-          "target": "D1-Z-3"
+          "target": "D1-Z-1"
         }
       ],
       "infoHotspots": [{}],
@@ -2828,20 +2700,20 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -2.628111494549879,
+        "pitch": 0.09224952050129964,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -89.8,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.7624734012214525,
+          "pitch": 0.30673645472720423,
           "rotation": 0,
-          "target": "D1-Z-4"
+          "target": "D1-Z-3"
         },
         {
-          "yaw": 46.8,
-          "pitch": -6.0076340532339251865,
+          "yaw": 2.8672105551096765,
+          "pitch": 0.2907251942886333,
           "rotation": 0,
           "target": "D1-Z-6"
         }
@@ -2856,26 +2728,26 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -2.3931650216561238,
+        "pitch": 0.05752643218231768,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -42.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.6373059413275257,
+          "pitch": 0.2450550031188783,
           "rotation": 0,
-          "target": "K-Z-1"
+          "target": "K-Z-2"
         },
         {
-          "yaw": -89.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.5020812626668985,
+          "pitch": 0.2873236909650334,
           "rotation": 0,
           "target": "D1-Z-5"
         },
         {
-          "yaw": 9.7,
-          "pitch": -6.0076340532339251865,
+          "yaw": 3.1095880493131265,
+          "pitch": 0.20491319046107215,
           "rotation": 0,
           "target": "Z-Esc-ext-1"
         }
@@ -3234,7 +3106,7 @@ var data = {
     },
     {
       "id": "CANCHA", //oriente-station
-      "name": "Cancha",
+      "name": "Cancha Basquetbol",
       "edificio": "Cancha",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3250,16 +3122,16 @@ var data = {
           "target": "CANCHATECHA1"
         },
         {
-          "yaw": -42.56678386676067,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "CANCHAPASILLO1"
-        },
-        {
           "yaw": 2.239563739175628,
           "pitch": 0.15978416981734256,
           "rotation": 5.497787143782138,
           "target": "EAD-1"
+        },
+        {
+          "yaw": -2.7016498347246767,
+          "pitch": 0.1359077567303597,
+          "rotation": 0.7853981633974483,
+          "target": "CANCHAPASILLO1"
         }
       ],
       "infoHotspots": [{}],
@@ -3268,7 +3140,7 @@ var data = {
     },
     {
       "id": "CANCHATECHA1", //oriente-station
-      "name": "Cancha",
+      "name": "Cancha Techada",
       "edificio": "CanchaTecha",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3302,7 +3174,7 @@ var data = {
     },
     {
       "id": "CANCHATECHA3", //oriente-station
-      "name": "Cancha",
+      "name": "Cancha Techada",
       "edificio": "CanchaTecha",
       "faceSize": 4096,
       "initialViewParameters": {
@@ -3328,50 +3200,28 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.01639077805477207,
+        "pitch": 0.10163458025881411,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -2.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "CANCHAPASILLO5"
-        },
-        {
-          "yaw": -9.4,
-          "pitch": -1.5,
-          "rotation": 0,
-          "target": "CANCHA"
-        }
-      ],
-      "infoHotspots": [{}],
-      "photoHotspots": [{}],
-      "videoHotspots": [{}]
-    },
-    {
-      "id": "CANCHAPASILLO5", //oriente-station
-      "name": "Pasillo",
-      "edificio": "0",
-      "faceSize": 4096,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.4,
-          "pitch": -6.0076340532339251865,
-          "rotation": 0,
-          "target": "CANCHAPASILLO1"
-        },
-        {
-          "yaw": -9.4,
-          "pitch": -1.5,
+          "yaw": -0.025308628833963454,
+          "pitch": 0.26685972449647366,
           "rotation": 0,
           "target": "CANCHAPASILLO6"
+        },
+        {
+          "yaw": -2.3577869599563748,
+          "pitch": 0.0751861911299958,
+          "rotation": 1.5707963267948966,
+          "target": "CANCHA"
+        },
+        {
+          "yaw": 1.9291535158099187,
+          "pitch": 0.13510594588193392,
+          "rotation": 10.995574287564278,
+          "target": "CAMPO1"
         }
       ],
       "infoHotspots": [{}],
@@ -3381,7 +3231,7 @@ var data = {
     {
       "id": "FUT7", //oriente-station
       "name": "Cancha",
-      "edificio": "0",
+      "edificio": "CanchaFut",
       "faceSize": 4096,
       "initialViewParameters": {
         "pitch": 0,
@@ -3390,8 +3240,8 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -3.0450481679855415,
+          "pitch": 0.4093688491665848,
           "rotation": 0,
           "target": "CANCHAPASILLO6-6"
         }
@@ -3406,26 +3256,26 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -3.1117492451870987,
+        "pitch": 0.13402774526115735,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -2.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.5029001515328222,
+          "pitch": 0.33069116127057363,
           "rotation": 0,
-          "target": "CANCHAPASILLO5"
+          "target": "CANCHAPASILLO1"
         },
         {
-          "yaw": -4.4,
-          "pitch": -3.0076340532339251865,
+          "yaw": 3.0796221601311986,
+          "pitch": 0.3820725601926984,
           "rotation": 0,
           "target": "CANCHAPASILLO6-6"
         },
         {
-          "yaw": -9.4,
-          "pitch": -1.5,
+          "yaw": 1.5666829839187626,
+          "pitch": 0.4111125744549877,
           "rotation": 0,
           "target": "CANCHAPASILLO8"
         }
@@ -3440,28 +3290,22 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.4202834451253974,
+        "pitch": 0.2602676609025636,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -2.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": 1.092726871577053,
+          "pitch": 0.3840138956522736,
           "rotation": 0,
           "target": "FUT7"
         },
         {
-          "yaw": -4.4,
-          "pitch": -3.0076340532339251865,
+          "yaw": -1.1037523676118042,
+          "pitch": 0.3821899176726422,
           "rotation": 0,
           "target": "CANCHAPASILLO6"
-        },
-        {
-          "yaw": -9.4,
-          "pitch": -1.5,
-          "rotation": 0,
-          "target": "CAMPO1"
         }
       ],
       "infoHotspots": [{}],
@@ -3480,14 +3324,14 @@ var data = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.5200657051301807,
+          "pitch": 0.332607095388898,
           "rotation": 0,
           "target": "CANCHAPASILLO6"
         },
         {
-          "yaw": -9.4,
-          "pitch": -1.5,
+          "yaw": 1.5522306268018848,
+          "pitch": 0.4078163105292134,
           "rotation": 0,
           "target": "CANCHAPASILLO9"
         }
@@ -3502,14 +3346,14 @@ var data = {
       "edificio": "0",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -0.19169632139255022,
+        "pitch": 0.06612800377846284,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -2.4,
-          "pitch": -6.0076340532339251865,
+          "yaw": -1.6144366082905055,
+          "pitch": 0.33135337027363754,
           "rotation": 0,
           "target": "CANCHAPASILLO8"
         }
@@ -3521,19 +3365,19 @@ var data = {
     {
       "id": "CAMPO1", //oriente-station
       "name": "Campo",
-      "edificio": "0",
+      "edificio": "Campo",
       "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.1426596977698722,
+        "pitch": 0.009046001946583004,
+        "fov": 1.4080178966706975
       },
       "linkHotspots": [
         {
-          "yaw": -9.4,
-          "pitch": -1.5,
-          "rotation": 0,
-          "target": "CANCHAPASILLO6-6"
+          "yaw": 0.7267159177876685,
+          "pitch": 0.09983202850225403,
+          "rotation": 5.497787143782138,
+          "target": "CANCHAPASILLO1"
         }
       ],
       "infoHotspots": [{}],
