@@ -318,6 +318,22 @@ body.fullscreen-enabled.mobile #autorotateToggle {
   width: 240px;
 }
 
+@media (max-width: 480px) {
+    .buscar{
+      left: 39px;
+      visibility: hidden;
+    }
+}
+@media (max-width: 768px) {
+  .buscar{
+    left: 39px;
+  }
+}
+@media (max-width: 1024px) {
+  .buscar{
+    left: 39px;
+  }
+}
 #sceneListToggle {
   position: absolute;
   top: 0;
