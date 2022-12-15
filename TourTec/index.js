@@ -44,7 +44,10 @@
     };
     var mql = matchMedia("(max-width: 500px), (max-height: 500px)");
     setMode();
-    mql.addListener(setMode);
+    mql.addEventListener('change', () => {
+      setMode();
+    });
+    //mql.addListener(setMode);
   } else {
     document.body.classList.add('desktop');
   }
@@ -151,9 +154,9 @@
   sceneListToggleElement.addEventListener('click', toggleSceneList);
 
   // Start with the scene list open on desktop.
-  if (!document.body.classList.contains('mobile')) {
+  /*if (!document.body.classList.contains('mobile')) {
     showSceneList();
-  }
+  }*/
 
   // Set handler for scene switch.
   /*scenes.forEach(function(scene) {
@@ -177,7 +180,7 @@
         return;
       }
     var el = document.querySelector('#sceneList .scene[data-edificio="' + scenes[i].data.edificio + '"]');
-    console.log(scenes[i].data.edificio);
+    //console.log(scenes[i].data.edificio);
     el.addEventListener('click', function() {
       switchScene(scene);
       // On mobile, hide scene list after selecting a scene.
@@ -334,14 +337,14 @@
     icon.classList.add('info-hotspot-icon');
     iconWrapper.appendChild(icon);
 
-    
+    /*
     // Create image search
     var iconWrapper = document.createElement('div');
     iconWrapper.classList.add('search');
     var icon = document.createElement('img');
     icon.src = 'img/search.png';
     icon.classList.add('search');
-    iconWrapper.appendChild(icon);
+    iconWrapper.appendChild(icon);*/
 
     // Create title element.
     var titleWrapper = document.createElement('div');
@@ -534,8 +537,10 @@
   }
 
   document.getElementById("boton").addEventListener("click", function(){
-    const name = document.getElementById("formulario").value.toLowerCase();
-    const vista = scenes.find( scene => scene.data.name.toLowerCase() === name );
+    const name = document.getElementById("formulario").value.toLowerCase().split(" ").join("");
+    console.log(name);
+    const vista = scenes.find( scene => scene.data.name.toLowerCase().split(" ").join("") === name );
+    console.log(vista);
     if(vista == undefined) {
       alert('No encontrado');
     }else{
