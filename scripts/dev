@@ -28,6 +28,6 @@ watchify -v -d \
   -o build/marzipano.js \
   src/index.js &
 
-lrhs -b -w src/**/*.js,demos/**/*.js,demos/**/*.css,demos/**/*.html,build/* &
+lrhs -b -w src/**/*.js,build/* &
 
 wait
